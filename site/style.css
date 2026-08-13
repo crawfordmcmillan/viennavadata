@@ -574,3 +574,18 @@ footer {
   }
   .votes-table:not(.keep-table) td:empty { display: none; }
 }
+
+/* Photographs — warm ink-on-paper duotone, one per page at most. */
+figure.photo { margin: 2.75rem 0 0; }
+figure.photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--ink);
+}
+figure.photo figcaption {
+  font-style: italic;
+  font-size: var(--fs-sm);
+  color: var(--muted);
+  margin-top: 0.55rem;
+}

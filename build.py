@@ -922,6 +922,81 @@ def load_elections():
     return meta, elections
 
 
+PHOTOS_DIR = ROOT / "assets" / "photos"
+
+# One photo per page, warm-duotone treatment from photos_prepare.py.
+# Captions are place + date, italic serif, per the newspaper design.
+PHOTOS = {
+    "index": {
+        "file": "caboose.jpg",
+        "alt": "A bright red caboose behind a bed of black-eyed Susans "
+               "and coneflowers",
+        "caption": "The caboose on the Town Green, a relic of the Washington "
+                   "& Old Dominion line. August 2026.",
+    },
+    "council": {
+        "file": "town-hall.jpg",
+        "alt": "The wooden Vienna Town Hall sign, reading Settled 1754, "
+               "Incorporated 1890, with the brick town hall behind",
+        "caption": "Vienna Town Hall on Center Street, where the council "
+                   "meets. August 2026.",
+    },
+    "elections": {
+        "file": "community-center.jpg",
+        "alt": "The Vienna Community Center entrance at dusk, beside a "
+               "bronze statue of two children on a stack of books",
+        "caption": "The Vienna Community Center on Cherry Street SE, the "
+                   "polling place for precinct Vienna #2. August 2026.",
+    },
+    "houses": {
+        "file": "knock-down.jpg",
+        "alt": "A one-story brick house next to a much larger newly built "
+               "two-story house on the same street",
+        "caption": "A brick rambler and its newly built neighbor, side by "
+                   "side. August 2026.",
+    },
+    "crashes": {
+        "file": "maple-ave.jpg",
+        "alt": "Cars queued at a light on Maple Avenue beneath a Vienna "
+               "Babe Ruth baseball banner",
+        "caption": "Evening traffic on Maple Avenue, the town's main road. "
+                   "August 2026.",
+    },
+    "population": {
+        "file": "w-od-trail.jpg",
+        "alt": "The paved W&OD Trail beside its regional park sign, flanked "
+               "by summer flowers",
+        "caption": "The W&OD Trail where it passes through downtown Vienna. "
+                   "August 2026.",
+    },
+}
+
+
+def load_photos():
+    """Copy processed photos into site/ and return per-page template
+    context. Pages render without photos until the assets exist."""
+    meta_file = PHOTOS_DIR / "photos_meta.json"
+    if not meta_file.exists():
+        return {}
+    meta = json.loads(meta_file.read_text(encoding="utf-8"))
+    (SITE / "photos").mkdir(exist_ok=True)
+    photos = {}
+    for page, p in PHOTOS.items():
+        src = PHOTOS_DIR / p["file"]
+        name = src.stem
+        if not src.exists() or name not in meta:
+            continue
+        shutil.copy(src, SITE / "photos" / p["file"])
+        photos[page] = {
+            "src": f"photos/{p['file']}",
+            "alt": p["alt"],
+            "caption": p["caption"],
+            "w": meta[name][0],
+            "h": meta[name][1],
+        }
+    return photos
+
+
 def write_exports(meetings, boards, aliases, today):
     """Machine-readable copies of the record: CSVs for spreadsheets, one
     markdown file sized for AI tools (NotebookLM and the like), and llms.txt
@@ -1226,13 +1301,14 @@ def main():
         encoding="utf-8",
     )
 
+    photos = load_photos()
     elections_meta, elections = load_elections()
     precinct_map = build_precinct_map()
     render("about.html", SITE / "about.html", root="")
     if elections:
         render("elections.html", SITE / "elections.html", root="",
                elections=elections, elections_meta=elections_meta,
-               precinct_map=precinct_map)
+               precinct_map=precinct_map, photo=photos.get("elections"))
     stats = {"votes": n_votes, "meetings": len(meetings), "members": len(members)}
     election_stats = {
         "contests": sum(len(e["contests"]) for e in elections),
@@ -1267,7 +1343,8 @@ def main():
             crashes["years"], year_totals, lambda v: f"{v:,.0f}",
             partial_idx=len(crashes["years"]) - 1,
             aria="Reportable crashes per year")
-        render("crashes.html", SITE / "crashes.html", root="", crashes=crashes)
+        render("crashes.html", SITE / "crashes.html", root="", crashes=crashes,
+               photo=photos.get("crashes"))
     pop = load_population()
     if pop:
         fmt_k = lambda v: f"{v / 1000:.1f}k" if v >= 10000 else f"{v:,.0f}"
@@ -1284,7 +1361,8 @@ def main():
         if rent_pts:
             pop["chart_rent"] = svg_line_chart(rent_pts, fmt_money, w=360, h=200,
                                                aria="Median rent by year")
-        render("population.html", SITE / "population.html", root="", pop=pop)
+        render("population.html", SITE / "population.html", root="", pop=pop,
+               photo=photos.get("population"))
     address_book = build_address_book(
         {p["address"] for p in props["properties"]} if props else None)
     if address_book:
@@ -1294,9 +1372,11 @@ def main():
            stats=stats, election_stats=election_stats, houses=houses,
            boards=boards, crashes=crashes, pop=pop, props=props,
            address_book=bool(address_book),
-           polling=(precinct_map or {}).get("polling"))
+           polling=(precinct_map or {}).get("polling"),
+           photo=photos.get("index"))
     if houses:
-        render("houses.html", SITE / "house-prices.html", root="", houses=houses)
+        render("houses.html", SITE / "house-prices.html", root="",
+               houses=houses, photo=photos.get("houses"))
     render(
         "council.html",
         SITE / "council.html",
@@ -1306,6 +1386,7 @@ def main():
         meetings_by_year=meetings_by_year,
         stats=stats,
         topics=topic_pages,
+        photo=photos.get("council"),
     )
     planned_pages_all = [
         {"slug": "population", "name": "Population",

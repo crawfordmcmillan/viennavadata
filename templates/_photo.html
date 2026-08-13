@@ -1,0 +1,7 @@
+{% if photo %}
+<figure class="photo">
+  <img src="{{ root }}{{ photo.src }}" alt="{{ photo.alt }}" loading="lazy"
+       width="{{ photo.w }}" height="{{ photo.h }}">
+  <figcaption>{{ photo.caption }}</figcaption>
+</figure>
+{% endif %}
