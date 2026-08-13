@@ -107,6 +107,9 @@ check the linked meeting pages before relying on an answer.</p>
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

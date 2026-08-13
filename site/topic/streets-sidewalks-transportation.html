@@ -1698,6 +1698,9 @@ is <a href="https://github.com/crawfordmcmillan/viennavadata/blob/main/categorie
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

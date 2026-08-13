@@ -589,3 +589,26 @@ figure.photo figcaption {
   color: var(--muted);
   margin-top: 0.55rem;
 }
+
+/* Homepage lede: the latest recorded vote, verbatim. */
+.latest-lede {
+  margin: 2.2rem 0 0;
+  padding: 1rem 1.4rem 1.1rem;
+  background: var(--card);
+  border-left: 4px solid var(--accent);
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+.latest-lede .lede-title {
+  font-family: var(--display);
+  font-size: var(--fs-md);
+  line-height: var(--lh-snug);
+  letter-spacing: var(--ls-display);
+  margin: 0.4rem 0;
+}
+.latest-lede .lede-tally { font-size: var(--fs-sm); color: var(--muted); margin: 0; }
+
+/* Print and PDF: never ship a page with unrevealed (invisible) content. */
+@media print {
+  .reveal { opacity: 1 !important; transform: none !important; }
+}

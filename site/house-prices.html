@@ -2195,6 +2195,9 @@ matched to addresses the county flags as inside the Town of Vienna. Sales record
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

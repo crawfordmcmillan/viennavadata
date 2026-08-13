@@ -301,6 +301,9 @@ Community Survey 5-year estimates for the Town of Vienna (place 51-81072). Retri
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

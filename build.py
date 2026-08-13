@@ -1266,6 +1266,30 @@ def main():
         by_year[m["date"][:4]].append(m)
     meetings_by_year = sorted(by_year.items(), reverse=True)
 
+    # Homepage lede: the most recent substantive recorded vote, verbatim —
+    # the last non-procedural roll call of the newest meeting that has one.
+    lede = None
+    for meeting in meetings:  # newest first
+        candidates = [
+            e for e in meeting["items"]
+            if e["votes"] and e["category"] not in ("Procedural", "Minutes")
+            and (e["item"].get("EventItemTitle") or "").strip()
+        ]
+        if candidates:
+            entry = candidates[-1]
+            d = datetime.strptime(meeting["date"], "%Y-%m-%d")
+            title = entry["item"]["EventItemTitle"].strip()
+            if len(title) > 240:
+                title = title[:237].rstrip() + "…"
+            lede = {
+                "date": f"{d:%B} {d.day}, {d.year}",
+                "title": title,
+                "tally": entry["tally"],
+                "id": entry["item"]["EventItemId"],
+                "slug": meeting["slug"],
+            }
+            break
+
     env = Environment(
         loader=FileSystemLoader(TEMPLATES),
         autoescape=select_autoescape(["html"]),
@@ -1373,7 +1397,7 @@ def main():
            boards=boards, crashes=crashes, pop=pop, props=props,
            address_book=bool(address_book),
            polling=(precinct_map or {}).get("polling"),
-           photo=photos.get("index"))
+           photo=photos.get("index"), lede=lede)
     if houses:
         render("houses.html", SITE / "house-prices.html", root="",
                houses=houses, photo=photos.get("houses"))

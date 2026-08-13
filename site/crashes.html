@@ -230,6 +230,9 @@ Raw files are in the <a href="https://github.com/crawfordmcmillan/viennavadata">
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

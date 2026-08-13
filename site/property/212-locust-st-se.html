@@ -231,6 +231,9 @@ Sale prices include non-market transfers where the county recorded a price.</p>
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

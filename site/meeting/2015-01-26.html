@@ -189,7 +189,7 @@
     </ul>
 </section>
 <section class="item">
-  <h2><a href="../item/14177.html">Second Closed Session
+  <h2><a href="../item/14177.html">Second Closed Session
 </a></h2>
     <p class="tally">6 Aye, 1 Absent
 <span class="result">Pass</span></p>
@@ -229,6 +229,9 @@
   els.forEach(function (el) {
     el.classList.add("reveal");
     io.observe(el);
+  });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
   });
 })();
 </script>

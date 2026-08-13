@@ -83,7 +83,7 @@ county records.</p>
     <tr>
       <td class="nowrap" data-label="Date"><time>2020-10-14</time></td>
       <td data-label="What"><span class="vote">Planning Commission</span></td>
-      <td data-label="Record">PC20-112: Public hearing for review by the Planning Commission to find that the proposed public use of an existing building, located at 301 Center Street South in the RS-10 Single-Family Detached 
+      <td data-label="Record">PC20-112: Public hearing for review by the Planning Commission to find that the proposed public use of an existing building, located at 301 Center Street South in the RS-10 Single-Family Detached 
 Residential zoning district, is substantially in accord with the Town of Vienna Comprehensive Plan, as required by Section 15.2-2232 of the Code of Virginia</td>
       <td class="nowrap"><a class="source-link" href="https://legistar1.granicus.com/vienna-va/meetings/2020/10/1560_M_Planning_Commission_20-10-14_Meeting_Minutes.pdf">minutes</a></td>
     </tr>
@@ -141,6 +141,9 @@ Sale prices include non-market transfers where the county recorded a price.</p>
   els.forEach(function (el) {
     el.classList.add("reveal");
     io.observe(el);
+  });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
   });
 })();
 </script>

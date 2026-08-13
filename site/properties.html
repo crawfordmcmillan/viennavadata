@@ -32114,6 +32114,9 @@ cases and council items from the Town of Vienna&rsquo;s public records. Retrieve
     el.classList.add("reveal");
     io.observe(el);
   });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
+  });
 })();
 </script>
 <footer>

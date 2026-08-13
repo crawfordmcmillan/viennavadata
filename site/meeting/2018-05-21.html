@@ -49,8 +49,8 @@
     <p class="muted">No recorded roll call for this item.</p>
 </section>
 <section class="item">
-  <h2><a href="../item/18429.html">Receipt of petitions and communications from the Public that is not on the Agenda.  
-          (Limited to 5 minutes per issue and no formal action can be taken this evening)
+  <h2><a href="../item/18429.html">Receipt of petitions and communications from the Public that is not on the Agenda.  
+          (Limited to 5 minutes per issue and no formal action can be taken this evening)
 </a></h2>
     <p class="muted">No recorded roll call for this item.</p>
 </section>
@@ -286,6 +286,9 @@
   els.forEach(function (el) {
     el.classList.add("reveal");
     io.observe(el);
+  });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
   });
 })();
 </script>

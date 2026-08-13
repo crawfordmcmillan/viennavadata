@@ -151,7 +151,7 @@
     </ul>
 </section>
 <section class="item">
-  <h2><a href="../item/12491.html">Request approval to renew IFB 12-05, July 4th Fireworks Display
+  <h2><a href="../item/12491.html">Request approval to renew IFB 12-05, July 4th Fireworks Display
 Contract with Bay Fireworks for the 2014 fireworks display at Southside Park.</a></h2>
     <p class="tally">6 Aye, 1 Absent
 <span class="result">Pass</span></p>
@@ -219,6 +219,9 @@ Contract with Bay Fireworks for the 2014 fireworks display at Southside Park.</a
   els.forEach(function (el) {
     el.classList.add("reveal");
     io.observe(el);
+  });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
   });
 })();
 </script>

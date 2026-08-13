@@ -35,7 +35,7 @@ county records.</p>
     <tr>
       <td class="nowrap" data-label="Date"><time>2019-05-10</time></td>
       <td data-label="What"><span class="vote">Board of Architectural Review Work Session</span></td>
-      <td data-label="Record">BARWS19-026: This work session will be rescheduled for a future date:
+      <td data-label="Record">BARWS19-026: This work session will be rescheduled for a future date:
 245 Maple Ave W (239 Maple Ave W) - Vienna Market</td>
       <td class="nowrap"><a class="source-link" href="https://vienna-va.legistar.com/MeetingDetail.aspx?LEGID=1365&amp;GID=362&amp;G=01012AC4-27B8-492D-8444-B7BC12CC12D0">agenda</a></td>
     </tr>
@@ -63,6 +63,9 @@ Sale prices include non-market transfers where the county recorded a price.</p>
   els.forEach(function (el) {
     el.classList.add("reveal");
     io.observe(el);
+  });
+  window.addEventListener("beforeprint", function () {
+    els.forEach(function (el) { el.classList.add("revealed"); });
   });
 })();
 </script>

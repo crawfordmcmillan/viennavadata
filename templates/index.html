@@ -6,7 +6,33 @@
 how the Town Council votes, how the town votes in elections, and more over
 time. All of it comes from official sources and links back to the original
 records. Nothing is scored or ranked.</p>
+
+{% if lede %}
+<section class="latest-lede">
+  <p class="eyebrow">The latest recorded vote &middot; {{ lede.date }}</p>
+  <p class="lede-title">{{ lede.title }}</p>
+  <p class="lede-tally">Recorded {{ lede.tally }} &middot;
+    <a href="item/{{ lede.id }}.html">see the roll call</a> &middot;
+    <a href="meeting/{{ lede.slug }}.html">full meeting</a></p>
+</section>
+{% endif %}
 {% include "_photo.html" %}
+
+{% if address_book %}
+<h2>Is your address in the town?</h2>
+<p>Not every Vienna, VA address is in the Town of Vienna. The Vienna postal area
+is much larger than the town, so many homes with Vienna mailing addresses are
+actually in Fairfax County. They get county services, vote in county-only
+races, and are not covered by the council votes on this site. Type a street
+address to check.</p>
+<div class="address-check">
+  <input type="search" id="addr-input" placeholder="e.g. 120 Cherry St SE" aria-label="Street address to check">
+  <div id="addr-result" role="status"></div>
+  <ul id="addr-suggest" class="plain"></ul>
+</div>
+<p class="muted">The check uses Fairfax County&rsquo;s official address list and runs
+entirely in your browser. Addresses you type are not sent anywhere or stored.</p>
+{% endif %}
 
 <h2>The data</h2>
 <ul class="dataset-grid">
@@ -84,20 +110,6 @@ records. Nothing is scored or ranked.</p>
 </ul>
 
 {% if address_book %}
-<h2>Is your address in the town?</h2>
-<p>Not every Vienna, VA address is in the Town of Vienna. The Vienna postal area
-is much larger than the town, so many homes with Vienna mailing addresses are
-actually in Fairfax County. They get county services, vote in county-only
-races, and are not covered by the council votes on this site. Type a street
-address to check.</p>
-<div class="address-check">
-  <input type="search" id="addr-input" placeholder="e.g. 120 Cherry St SE" aria-label="Street address to check">
-  <div id="addr-result" role="status"></div>
-  <ul id="addr-suggest" class="plain"></ul>
-</div>
-<p class="muted">The check uses Fairfax County&rsquo;s official address list and runs
-entirely in your browser. Addresses you type are not sent anywhere or stored.</p>
-
 <script>
 (function () {
   var input = document.getElementById("addr-input");
