@@ -148,13 +148,23 @@ MAP_FILLS = {213: "#ead9b7", 214: "#cfd8c2", 216: "#e5c6b2", 218: "#c9d3da"}
 MAP_LOCAL_ROADS = {"Church", "Beulah", "Park", "Courthouse", "Lawyers",
                    "Cedar", "Old Courthouse", "Follin", "Glyndon", "Center",
                    "Washington and Old Dominion"}
-# (name prefix to match in the data, label shown on the map)
-MAP_ROAD_LABELS = [("Maple Ave", "Maple Ave"), ("Nutley St", "Nutley St"),
-                   ("Church St", "Church St"), ("Beulah Rd", "Beulah Rd"),
-                   ("Lawyers Rd", "Lawyers Rd"), ("Courthouse Rd", "Courthouse Rd"),
-                   ("Chain Bridge Rd", "Chain Bridge Rd"), ("Park St", "Park St"),
-                   ("Center St", "Center St"),
-                   ("Washington and Old Dominion", "W&amp;OD Trail")]
+# (name prefix to match in the data, label shown on the map, fraction
+# along the drawn line where the label sits; None = point nearest map center).
+# Labels rotate to follow the road's bearing at that point.
+MAP_ROAD_LABELS = [("Maple Ave", "Maple Ave", 0.5),
+                   ("Nutley St", "Nutley St", 0.5),
+                   ("Church St", "Church St", 0.5),
+                   ("Beulah Rd", "Beulah Rd", 0.5),
+                   ("Lawyers Rd", "Lawyers Rd", 0.5),
+                   ("Courthouse Rd", "Courthouse Rd", 0.5),
+                   ("Chain Bridge Rd", "Chain Bridge Rd", 0.35),
+                   ("Park St", "Park St", 0.5),
+                   ("Center St", "Center St", 0.3),
+                   ("Cedar Ln", "Cedar Ln", 0.5),
+                   ("Old Courthouse Rd", "Old Courthouse Rd", 0.2),
+                   ("Follin Ln", "Follin Ln", 0.5),
+                   ("Glyndon St", "Glyndon St", 0.5),
+                   ("Washington and Old Dominion", "W&amp;OD Trail", 0.12)]
 
 
 def build_precinct_map(crashes=None, include_polling=True):
@@ -271,30 +281,54 @@ def build_precinct_map(crashes=None, include_polling=True):
                    f'font-family="Libre Franklin, Arial, sans-serif" font-weight="900" '
                    f'font-size="26" fill="#211d13">#{MAP_PRECINCTS[ident][-1]}</text>')
 
-    # Road labels: midpoint of the longest drawn segment for each labeled name.
+    # Road labels: set along each road at a tunable fraction of its drawn
+    # line, rotated to the road's local bearing so names read like a map.
+    def label_angle(pts, idx):
+        a = pts[max(0, idx - 2)]
+        b = pts[min(len(pts) - 1, idx + 2)]
+        ang = math.degrees(math.atan2(b[1] - a[1], b[0] - a[0]))
+        if ang > 90:
+            ang -= 180
+        if ang < -90:
+            ang += 180
+        return ang
+
     all_roads = secondary + local
-    for prefix, display in MAP_ROAD_LABELS:
+    boundary_xy = [xy(p) for p in boundary[0]]
+    for prefix, display, frac in MAP_ROAD_LABELS:
         candidates = [f for f in all_roads if (f["properties"].get("NAME") or "").startswith(prefix)]
         if not candidates:
             continue
-        if "OD Trail" in display:
-            # The trail is one long feature that mostly runs outside town;
-            # label it at whichever of its points is nearest the map middle.
-            mx, my = min(
-                (xy(p) for f in candidates for line in road_lines(f) for p in line),
-                key=lambda q: (q[0] - width / 2) ** 2 + (q[1] - height / 2) ** 2)
-            my -= 8
+        lines_xy = [[xy(p) for p in line] for f in candidates for line in road_lines(f)]
+        if frac is None:
+            # The W&OD trail mostly runs outside town; label it at whichever
+            # of its points is nearest the map middle.
+            line_pts, idx = min(
+                ((lp, i) for lp in lines_xy for i in range(len(lp))),
+                key=lambda t: (t[0][t[1]][0] - width / 2) ** 2
+                              + (t[0][t[1]][1] - height / 2) ** 2)
         else:
-            chosen = max(candidates, key=lambda f: sum(len(l) for l in road_lines(f)))
-            line = max(road_lines(chosen), key=len)
-            mx, my = xy(line[len(line) // 2])
-        mx = min(max(mx, 60), width - 60)
-        my = min(max(my, 20), height - 10)
+            # Position along the stretch of road inside the town boundary,
+            # since many of these roads run well beyond it.
+            inside = [(lp, [i for i, q in enumerate(lp) if point_in_ring(q[0], q[1], boundary_xy)])
+                      for lp in lines_xy]
+            inside = [(lp, ix) for lp, ix in inside if ix]
+            if inside:
+                line_pts, ix = max(inside, key=lambda t: len(t[1]))
+                idx = ix[round((len(ix) - 1) * frac)]
+            else:
+                line_pts = max(lines_xy, key=len)
+                idx = round((len(line_pts) - 1) * frac)
+        mx, my = line_pts[idx]
+        ang = label_angle(line_pts, idx)
+        mx = min(max(mx, 50), width - 50)
+        my = min(max(my, 16), height - 10)
         color = "#5d6b4d" if "OD Trail" in display else "#6d675c"
         svg.append(f'<text x="{mx:.0f}" y="{my - 4:.0f}" text-anchor="middle" '
-                   f'font-family="Libre Franklin, Arial, sans-serif" font-weight="600" font-size="12" '
-                   f'fill="{color}" stroke="#f5eedd" stroke-width="3" '
-                   f'paint-order="stroke" letter-spacing="0.04em">{display}</text>')
+                   f'transform="rotate({ang:.0f} {mx:.0f} {my:.0f})" '
+                   f'font-family="Libre Franklin, Arial, sans-serif" font-weight="600" font-size="10.5" '
+                   f'fill="{color}" stroke="#f5eedd" stroke-width="2.5" '
+                   f'paint-order="stroke" letter-spacing="0.03em">{display}</text>')
 
     if crashes:
         for c in crashes:
