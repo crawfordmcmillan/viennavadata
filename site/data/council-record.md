@@ -12,7 +12,7 @@ Meeting page: https://viennavadata.org/meeting/2026-08-24.html
 - Item 38478: Roll Call [topic: Procedural]
 - Item 38479: Acceptance of the Minutes: [topic: Minutes]
 - Item 38499: Approval of the Draft May 18th, June 1st, and July 6th Town Council Meeting Minutes and the Draft June 1st , June 8th, and July 6th Work Session Minutes. [topic: Minutes]
-- Item 38480: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 38480: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 38482: Reports/Presentations [topic: Procedural]
 - Item 38483: Report and Inquiries of Council Members [topic: Procedural]
@@ -43,7 +43,7 @@ Meeting page: https://viennavadata.org/meeting/2026-07-06.html
 - Item 38301: Roll Call [topic: Procedural]
 - Item 38302: Acceptance of the Minutes: [topic: Minutes]
 - Item 38327: Approval of the Draft Town Council Meeting Minutes from May 11th and June 1st and the Draft Town Council Work Session Minutes from June 1st. [topic: Minutes]
-- Item 38303: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 38303: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 38305: Reports/Presentations [topic: Procedural]
 - Item 38306: Report and Inquiries of Council Members [topic: Procedural]
@@ -54,19 +54,25 @@ Meeting page: https://viennavadata.org/meeting/2026-07-06.html
 - Item 38309: Proposals for Additional Items to the Agenda [topic: Procedural]
 - Item 38310: Closed Session Report [topic: Procedural]
 - Item 38312: Consent Agenda [topic: Consent Agenda]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38320: Appropriate Spending for the Town Attorney for FY 2026-27 [topic: Budget, Taxes & Finance]
 - Item 38318: Intent to adopt a proposed ordinance to amend the Code of the Town of Vienna, Chapter 9, Motor Vehicles and Traffic, Article 1, In General, Section 9-3, Adoption of State Code. [topic: Streets, Sidewalks & Transportation]
-- Item 38314: Request to adopt 2027 Town Council meeting schedule for inclusion in the 2027 Town of Vienna Calendar. [topic: Governance & Administration]
 - Item 38319: Approval of payment to Tyler Technologies for the standard software maintenance agreement (SSMA) for the Vienna Finance Department [topic: Budget, Taxes & Finance]
-- Item 38315: Request to set a Public Hearing for Aug. 24, 2026, for AT&T Mobility’s request for Modification of Requirements at 527 Maple Ave., E [topic: Land Use, Zoning & Development]
-- Item 38316: Change Order to Add Design of the 2nd Floor and Basement to RFP 24-19, 1st Floor Town Hall Renovation - Architectural Drawings for Construction [topic: Town Facilities & Property]
 - Item 38317: Recommend approval to add 217 Walnut Lane, NW, to the Town of Vienna Historic Property Register. [topic: Land Use, Zoning & Development]
 - Item 38321: Request to Award Invitation for Bid (IFB) 26-11 to Sagres Construction Corporation (Primary) and Crown Construction Service, Inc (Secondary) for Provision and Installation of Water Mains [topic: Water, Sewer & Stormwater]
 - Item 38322: Request to award Purchase Order for Engineering & Design Services to WSP USA Environment & Infrastructure, Inc. for the Bear Branch - Onondio Circle Stream Restoration Project. [topic: Environment, Trees & Sustainability]
-- Item 38324: Request approval to increase FY27 spending with Brightview Landscape Services, Inc., for maintenance of landscape beds and hardscaped areas within Town rights-of-way and parks. [topic: Parks & Recreation]
 - Item 38325: Amend Council’s June 1, 2026, motion to reschedule the Tree Advocacy Committee - Green Streets Policy work session from July 6, 2026, to Aug.  24, 2026 [topic: Environment, Trees & Sustainability]
 - Item 38313: Regular Business [topic: Procedural]
 - Item 38326: Request to Set a Public Hearing for Sept. 14, 2026 Regarding Reducing the Town of Vienna Meals Tax Rate from 4% to 3% [topic: Budget, Taxes & Finance]
+  Result: 1 Nay, 6 Aye. Roll call: Chuck Anderson: Nay; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
+- Item 38314: Request to adopt 2027 Town Council meeting schedule for inclusion in the 2027 Town of Vienna Calendar. [topic: Governance & Administration]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
+- Item 38315: Request to set a Public Hearing for Aug. 24, 2026, for AT&T Mobility’s request for Modification of Requirements at 527 Maple Ave., E [topic: Land Use, Zoning & Development]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
+- Item 38316: Change Order to Add Design of the 2nd Floor and Basement to RFP 24-19, 1st Floor Town Hall Renovation - Architectural Drawings for Construction [topic: Town Facilities & Property]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
+- Item 38324: Request approval to increase FY27 spending with Brightview Landscape Services, Inc., for maintenance of landscape beds and hardscaped areas within Town rights-of-way and parks. [topic: Parks & Recreation]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38328: Meeting Adjournment [topic: Procedural]
 - Item 38329: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
@@ -77,13 +83,14 @@ Meeting page: https://viennavadata.org/meeting/2026-06-01.html
 - Item 38112: Roll Call [topic: Procedural]
 - Item 38113: Acceptance of the Minutes: [topic: Minutes]
 - Item 38132: Approval of the Draft May 11th Town Council Work Session Minutes [topic: Minutes]
-- Item 38114: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 38114: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 38115: (untitled) [topic: Procedural]
 - Item 38116: Reports/Presentations [topic: Procedural]
 - Item 38117: Report and Inquiries of Council Members [topic: Procedural]
 - Item 38118: Report of the Town Manager [topic: Procedural]
 - Item 38119: Report of the Mayor - Board and Commission Certificate of Appreciation [topic: Procedural]
+- Item 38137: Proclamation - National Donut Day [topic: Proclamations & Recognitions]
 - Item 38120: Proposals for Additional Items to the Agenda [topic: Procedural]
 - Item 38121: Closed Session Report [topic: Procedural]
 - Item 38123: Consent Agenda [topic: Consent Agenda]
@@ -108,7 +115,7 @@ Meeting page: https://viennavadata.org/meeting/2026-05-18.html
 - Item 37968: Roll Call [topic: Procedural]
 - Item 37969: Acceptance of the Minutes: [topic: Minutes]
 - Item 37987: Approval of the April 20th Draft Town Council Work Session, April 27th Draft Town Council Meeting, and May 4th Draft Town Council Meeting Minutes. [topic: Minutes]
-- Item 37970: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37970: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37972: Reports/Presentations [topic: Procedural]
 - Item 37973: Report and Inquiries of Council Members [topic: Procedural]
@@ -142,7 +149,7 @@ Meeting page: https://viennavadata.org/meeting/2026-05-04.html
 - Item 37880: Roll Call [topic: Procedural]
 - Item 37881: Acceptance of the Minutes: [topic: Minutes]
 - Item 37896: Acceptance of the Town Council Draft Minutes of April 6, 2026 [topic: Minutes]
-- Item 37882: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37882: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37884: Reports/Presentations [topic: Procedural]
 - Item 37885: Report and Inquiries of Council Members [topic: Procedural]
@@ -166,7 +173,7 @@ Meeting page: https://viennavadata.org/meeting/2026-04-27.html
 - Item 37823: Roll Call [topic: Procedural]
 - Item 37824: Acceptance of the Minutes: [topic: Minutes]
 - Item 37844: March 14 and March 23, 2026 Draft Work Session Minutes [topic: Minutes]
-- Item 37825: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37825: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37826: (untitled) [topic: Procedural]
 - Item 37827: Reports/Presentations [topic: Procedural]
@@ -198,7 +205,7 @@ Meeting page: https://viennavadata.org/meeting/2026-04-06.html
 - Item 37694: Roll Call [topic: Procedural]
 - Item 37695: Acceptance of the Minutes: [topic: Minutes]
 - Item 37713: Acceptance of the March 9, 2026 Work Session draft minutes and the March 23, 2026 Town Council draft minutes. [topic: Minutes]
-- Item 37696: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37696: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37698: Reports/Presentations [topic: Procedural]
 - Item 37699: Report and Inquiries of Council Members [topic: Procedural]
@@ -233,7 +240,7 @@ Meeting page: https://viennavadata.org/meeting/2026-03-23.html
 - Item 37638: Roll Call [topic: Procedural]
 - Item 37639: Acceptance of the Minutes: [topic: Minutes]
 - Item 37659: Acceptance Of Work Session Draft Minutes of February 9, 2026, and Draft Town Council meeting Minutes February 23 and March 2, 2026. [topic: Minutes]
-- Item 37640: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37640: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37642: Reports/Presentations [topic: Procedural]
 - Item 37643: Report and Inquiries of Council Members [topic: Procedural]
@@ -266,7 +273,7 @@ Meeting page: https://viennavadata.org/meeting/2026-03-02.html
 - Item 37278: Roll Call [topic: Procedural]
 - Item 37279: Acceptance of the Minutes: [topic: Minutes]
 - Item 37294: 2-9-2026 Draft Town Council Work session Minutes [topic: Minutes]
-- Item 37280: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37280: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37282: Reports/Presentations [topic: Procedural]
 - Item 37283: Report and Inquiries of Council Members [topic: Procedural]
@@ -296,7 +303,7 @@ Meeting page: https://viennavadata.org/meeting/2026-02-23.html
 - Item 37223: Roll Call [topic: Procedural]
 - Item 37245: Acceptance of Minutes: [topic: Minutes]
 - Item 37243: Draft Town Council Meeting Minutes from February 2nd, 2026 [topic: Minutes]
-- Item 37225: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37225: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37227: Reports/Presentations [topic: Procedural]
 - Item 37228: Report and Inquiries of Council Members [topic: Procedural]
@@ -325,7 +332,7 @@ Meeting page: https://viennavadata.org/meeting/2026-02-02.html
 - Item 37093: Roll Call [topic: Procedural]
 - Item 37094: Acceptance of the Minutes: [topic: Minutes]
 - Item 37106: Acceptance of the January 5th Town Council Meeting and the January 12th Work Session Minutes [topic: Minutes]
-- Item 37095: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37095: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37097: Reports/Presentations [topic: Procedural]
 - Item 37098: Report and Inquiries of Council Members [topic: Procedural]
@@ -352,7 +359,7 @@ Meeting page: https://viennavadata.org/meeting/2026-01-26.html
 - Item 37057: Roll Call [topic: Procedural]
 - Item 37058: Acceptance of the Minutes: [topic: Minutes]
 - Item 37075: Acceptance of the January 5th Town Council Meeting Minutes [topic: Minutes]
-- Item 37059: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 37059: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 37061: Reports/Presentations [topic: Procedural]
 - Item 37062: Report and Inquiries of Council Members [topic: Procedural]
@@ -378,7 +385,7 @@ Meeting page: https://viennavadata.org/meeting/2026-01-05.html
 - Item 36939: Roll Call [topic: Procedural]
 - Item 36940: Acceptance of the Minutes: [topic: Minutes]
 - Item 36941: Draft Minutes for Approval from the December 2nd and December 8th Town Council Meetings [topic: Minutes]
-- Item 36942: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36942: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36944: Reports/Presentations [topic: Procedural]
 - Item 36958: Public Notice Improvements Update [topic: Governance & Administration]
@@ -413,7 +420,7 @@ Meeting page: https://viennavadata.org/meeting/2025-12-08.html
 - Item 36827: Roll Call [topic: Procedural]
 - Item 36828: Acceptance of the Minutes: [topic: Minutes]
 - Item 36852: Acceptance of Regular Meeting Minutes of October 27, 2025 and  November 10, 2025, and the Work Session Minutes of November 17, 2025. [topic: Minutes]
-- Item 36829: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36829: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36850: Board and Commission Appreciation [topic: Proclamations & Recognitions]
 - Item 36849: Council Member Appreciation [topic: Proclamations & Recognitions]
@@ -461,7 +468,7 @@ Meeting page: https://viennavadata.org/meeting/2025-11-10.html
 - Item 36670: Acceptance of the Minutes: [topic: Minutes]
   Result: 1 Absent, 6 (no value recorded). Roll call: Sandra Allen: Absent; Chuck Anderson: (no value recorded); Roy Baldwin: (no value recorded); Ray Brill Jr.: (no value recorded); Jessica Ramakis: (no value recorded); Howard J. Springsteen: (no value recorded); Linda Colbert: (no value recorded).
 - Item 36687: Acceptance of the Draft Minutes of September 15th Work Session, September 29th Town Council Meeting, and October 6th Town Council Meeting. [topic: Minutes]
-- Item 36671: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36671: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36673: Reports/Presentations [topic: Procedural]
 - Item 36690: 2025 Halloween Parade Awards [topic: Proclamations & Recognitions]
@@ -497,7 +504,7 @@ Meeting page: https://viennavadata.org/meeting/2025-10-27.html
 - Item 36614: Roll Call [topic: Procedural]
 - Item 36615: Acceptance of the Minutes: [topic: Minutes]
 - Item 36630: Acceptance of the Draft Minutes of September 15th Work Session, September 29th Town Council Meeting, and October 6th Town Council Meeting. [topic: Minutes]
-- Item 36616: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36616: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36618: Reports/Presentations [topic: Procedural]
 - Item 36619: Report and Inquiries of Council Members [topic: Procedural]
@@ -526,7 +533,7 @@ Meeting page: https://viennavadata.org/meeting/2025-10-06.html
 - Item 36468: Invocation: Pastor Eddie Sampson, New Union Baptist Church [topic: Procedural]
 - Item 36469: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 36470: Roll Call [topic: Procedural]
-- Item 36472: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36472: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36474: Reports/Presentations [topic: Procedural]
 - Item 36488: Proclamation for Fire Prevention Week 2025 [topic: Proclamations & Recognitions]
@@ -556,7 +563,7 @@ Meeting page: https://viennavadata.org/meeting/2025-09-29.html
 - Item 36378: Roll Call [topic: Procedural]
 - Item 36379: Acceptance of the Minutes: [topic: Minutes]
 - Item 36395: Acceptance of the Draft Minutes of August 25th and September 8th Regular Town Council Meetings [topic: Minutes]
-- Item 36380: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36380: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36382: Reports/Presentations [topic: Procedural]
 - Item 36433: 1. Government Finance Officers Association (GFOA) Triple Crown: Budgeting and Financial Reporting [topic: Budget, Taxes & Finance]
@@ -585,11 +592,11 @@ Meeting page: https://viennavadata.org/meeting/2025-09-08.html
 - Item 36230: Invocation: Ray Brill, Council Member [topic: Procedural]
 - Item 36231: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 36232: Roll Call [topic: Procedural]
-- Item 36234: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36234: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
-- Item 36321: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36321: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
-- Item 36322: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36322: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36236: Reports/Presentations [topic: Procedural]
 - Item 36250: Science Museum of Virginia Board Swearing in of Dr. Nisha Patel [topic: Proclamations & Recognitions]
@@ -631,7 +638,7 @@ Meeting page: https://viennavadata.org/meeting/2025-08-25.html
 - Item 36183: Roll Call [topic: Procedural]
 - Item 36184: Acceptance of the Minutes: [topic: Minutes]
 - Item 36200: Acceptance of the Regular Council Meeting Minutes of July 7, 2025 and the Work Session Minutes of July 7, 2025. [topic: Minutes]
-- Item 36185: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36185: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36187: Reports/Presentations [topic: Procedural]
 - Item 36188: Report and Inquiries of Council Members [topic: Procedural]
@@ -663,7 +670,7 @@ Meeting page: https://viennavadata.org/meeting/2025-07-07.html
 - Item 36013: Roll Call [topic: Procedural]
 - Item 36014: Acceptance of the Minutes: [topic: Minutes]
 - Item 36030: Acceptance of the Regular Council Meeting Minutes of June 2, 2025 and the Work Session Minutes of June 9, 2025. [topic: Minutes]
-- Item 36015: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 36015: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 36017: Reports/Presentations [topic: Procedural]
 - Item 36028: National Parks & Recreation Month [topic: Parks & Recreation]
@@ -701,7 +708,7 @@ Meeting page: https://viennavadata.org/meeting/2025-06-02.html
 - Item 35770: Roll Call [topic: Procedural]
 - Item 35771: Acceptance of the Minutes: [topic: Minutes]
 - Item 35787: Acceptance of the Work Session Minutes of May 12, 2025 and the Town Council Meeting Minutes of May 19, 2025 [topic: Minutes]
-- Item 35772: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 35772: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 35774: Reports/Presentations [topic: Procedural]
 - Item 35785: 7:40 p.m. - 8:10 p.m. New Website Update [topic: Contracts & Purchasing]
@@ -734,7 +741,7 @@ Meeting page: https://viennavadata.org/meeting/2025-05-19.html
 - Item 35661: Acceptance of the Minutes: [topic: Minutes]
 - Item 35677: Acceptance of the Regular Council Meeting Minutes of April 28, 2025 and May 5, 2025. [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 35662: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 35662: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 35664: Reports/Presentations [topic: Procedural]
 - Item 35690: 2024 Special Gratitude Award for Maud Robinson [topic: Contracts & Purchasing]
@@ -763,7 +770,7 @@ Meeting page: https://viennavadata.org/meeting/2025-05-05.html
 - Item 35516: Roll Call [topic: Procedural]
 - Item 35517: Acceptance of the Minutes: [topic: Minutes]
 - Item 35533: Acceptance of the Council Meeting Minutes of April 7, 2025 and the Work Session Minutes of April 21, 2025 [topic: Minutes]
-- Item 35518: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 35518: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 35520: Reports/Presentations [topic: Procedural]
 - Item 35552: Proclamation for Congressman Gerald E. Connolly [topic: Proclamations & Recognitions]
@@ -787,7 +794,7 @@ Meeting page: https://viennavadata.org/meeting/2025-04-28.html
 - Item 35457: Roll Call [topic: Procedural]
 - Item 35458: Acceptance of the Minutes: [topic: Minutes]
 - Item 35474: Acceptance of the Council Meeting Minutes of April 7, 2025 [topic: Minutes]
-- Item 35459: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 35459: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 35461: Reports/Presentations [topic: Procedural]
 - Item 35462: Report and Inquiries of Council Members [topic: Procedural]
@@ -822,7 +829,7 @@ Meeting page: https://viennavadata.org/meeting/2025-04-07.html
 - Item 35263: Acceptance of the Minutes: [topic: Minutes]
 - Item 35281: Acceptance of the Regular Council Meeting Minutes of February 24, 2025, March 24, 2025, the Work Session Minutes of March 3, 2025, March 15, 2025 and March 17, 2025. [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 35264: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 35264: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 35266: Reports/Presentations [topic: Procedural]
 - Item 35276: Proclamation for International Dark Sky Week [topic: Proclamations & Recognitions]
@@ -858,7 +865,7 @@ Meeting page: https://viennavadata.org/meeting/2025-03-24.html
 - Item 35182: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 35183: Roll Call [topic: Procedural]
 - Item 35184: Acceptance of the Minutes: [topic: Minutes]
-- Item 35185: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 35185: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 35187: Reports/Presentations [topic: Procedural]
 - Item 35202: Arbor Day Proclamation [topic: Proclamations & Recognitions]
@@ -902,7 +909,7 @@ Meeting page: https://viennavadata.org/meeting/2025-02-24.html
 - Item 34919: Acceptance of the Minutes: [topic: Minutes]
 - Item 34939: Acceptance of the Regular Council Meeting Minutes of January 27, 2025, February 3, 2025 and the Work Session Minutes of February 10, 2025 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 34920: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34920: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34922: Reports/Presentations [topic: Procedural]
 - Item 34923: Report and Inquiries of Council Members [topic: Procedural]
@@ -934,7 +941,7 @@ Meeting page: https://viennavadata.org/meeting/2025-02-03.html
 - Item 34787: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 34788: Roll Call [topic: Procedural]
 - Item 34789: Acceptance of the Minutes: None [topic: Minutes]
-- Item 34790: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34790: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34792: Reports/Presentations [topic: Procedural]
 - Item 34793: Report and Inquiries of Council Members [topic: Procedural]
@@ -965,7 +972,7 @@ Meeting page: https://viennavadata.org/meeting/2025-01-27.html
 - Item 34752: Acceptance of the Minutes: [topic: Minutes]
 - Item 34766: Acceptance of the Regular Council Meeting Minutes of December 9, 2024, the Work Session Minutes of December 9, 2024, December 16, 2024, and the Regular Council Meeting Minutes and Work Session minutes of January 13, 2025 [topic: Minutes]
   Result: 1 Absent, 6 Aye. Roll call: Sandra Allen: Absent; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 34753: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34753: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34755: Reports/Presentations [topic: Procedural]
 - Item 34769: Proclamation for Vienna Youth Soccer Day [topic: Proclamations & Recognitions]
@@ -1008,7 +1015,7 @@ Meeting page: https://viennavadata.org/meeting/2025-01-06.html
 - Item 34559: Roll Call [topic: Procedural]
 - Item 34560: Acceptance of the Minutes: [topic: Minutes]
 - Item 34577: Acceptance of the Regular Council Meeting Minutes of December 9, 2024 and the Work Session Minutes of December 16, 2024. [topic: Minutes]
-- Item 34561: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34561: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34563: Reports/Presentations [topic: Procedural]
 - Item 34579: Proclamation for Vienna Youth Soccer Day [topic: Proclamations & Recognitions]
@@ -1033,7 +1040,7 @@ Meeting page: https://viennavadata.org/meeting/2024-12-09.html
 - Item 34410: Acceptance of the Minutes: [topic: Minutes]
 - Item 34428: Acceptance of the Regular Council Meeting Minutes of November 18, 2024 [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Absent; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 34411: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34411: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34413: 7:45 p.m. - 8:00 p.m. - Reports/Presentations [topic: Procedural]
 - Item 34423: 7:45 p.m. - 8:00 p.m. - Presentation of the 2024 Annual Comprehensive Financial Report (ACFR) [topic: Budget, Taxes & Finance]
@@ -1068,7 +1075,7 @@ Meeting page: https://viennavadata.org/meeting/2024-11-18.html
 - Item 34303: Acceptance of the Minutes: [topic: Minutes]
 - Item 34323: Acceptance of the Regular Meeting Minutes of October 28, 2024, and the Work Session Minutes of October 21, 2024 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 34304: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34304: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34306: Reports/Presentations [topic: Procedural]
 - Item 34318: 2024 Halloween Parade Awards [topic: Proclamations & Recognitions]
@@ -1106,7 +1113,7 @@ Meeting page: https://viennavadata.org/meeting/2024-10-28.html
 - Item 34207: Acceptance of the Minutes: [topic: Minutes]
 - Item 34229: Acceptance of the Work Session Minutes of September 9, 2024, September 30, 2024 and the Regular Meeting Minutes of October 7, 2024 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 34208: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34208: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34210: Reports/Presentations [topic: Procedural]
 - Item 34211: Report and Inquiries of Council Members [topic: Procedural]
@@ -1142,7 +1149,7 @@ Meeting page: https://viennavadata.org/meeting/2024-10-07.html
 - Item 34066: Acceptance of the Minutes: [topic: Minutes]
 - Item 34082: Acceptance of the Regular Council Meeting Minutes of September 23, 2024, and the Work session minutes of September 16, 2024 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 34067: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 34067: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 34069: Reports/Presentations [topic: Procedural]
 - Item 34080: 7:45 p.m. - 8:00 p.m. Proclamation for National Community Planning Month [topic: Proclamations & Recognitions]
@@ -1174,7 +1181,7 @@ Meeting page: https://viennavadata.org/meeting/2024-09-23.html
 - Item 33931: Acceptance of the Minutes: [topic: Minutes]
 - Item 33953: Acceptance of the Regular Council Meeting Minutes of September 9, 2024. [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 33932: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33932: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33934: Reports/Presentations [topic: Procedural]
 - Item 33952: 7:45 p.m. - 7:55 p.m. - Conservation and Sustainability Commission Presentation of the Eco-Efficient Homes Award to Select Recipients by the Conservation and Sustainability Commission [topic: Environment, Trees & Sustainability]
@@ -1211,7 +1218,7 @@ Meeting page: https://viennavadata.org/meeting/2024-09-09.html
 - Item 33735: Acceptance of the Minutes: [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Absent; Linda Colbert: Aye.
 - Item 33752: Acceptance of the Work Session Minutes of July 8, 2024 and the Regular Council Meeting Minutes of August 26, 2024 [topic: Minutes]
-- Item 33736: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33736: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33738: Reports/Presentations [topic: Procedural]
 - Item 33753: 7:45 p.m. - 7:50 p.m. - Proclamation for Suicide Prevention Week [topic: Proclamations & Recognitions]
@@ -1242,7 +1249,7 @@ Meeting page: https://viennavadata.org/meeting/2024-08-26.html
 - Item 33645: Roll Call [topic: Procedural]
 - Item 33646: Acceptance of the Minutes: [topic: Minutes]
 - Item 33661: Acceptance of the Regular Council Meeting Minutes of July 8, 2024 [topic: Minutes]
-- Item 33647: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33647: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33649: Reports/Presentations [topic: Procedural]
 - Item 33660: 7:45 p.m. - 7:50 p.m. - Proclamation For Constitution Week [topic: Proclamations & Recognitions]
@@ -1287,7 +1294,7 @@ Meeting page: https://viennavadata.org/meeting/2024-07-08.html
 - Item 33485: Acceptance of the Minutes: [topic: Minutes]
 - Item 33513: Acceptance of the Regular Council Meeting Minutes of June 3, 2024 [topic: Minutes]
   Result: 2 Absent, 5 Aye. Roll call: Sandra Allen: Absent; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Absent; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 33486: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33486: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33488: Reports/Presentations [topic: Procedural]
 - Item 33497: 7:45 p.m. - 8:00 p.m.  Proclamation for National Parks & Recreation Month [topic: Proclamations & Recognitions]
@@ -1331,7 +1338,7 @@ Meeting page: https://viennavadata.org/meeting/2024-06-03.html
 - Item 33248: Roll Call [topic: Procedural]
 - Item 33249: Acceptance of the Minutes: [topic: Minutes]
 - Item 33268: Acceptance of the Conference Session Minutes of May 13, 2024 and the Regular Meeting Minutes of May 20, 2024. [topic: Minutes]
-- Item 33250: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33250: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33252: Reports/Presentations [topic: Procedural]
 - Item 33269: 7:45 p.m. - 8:15 p.m. - Overview of Dominion Energy's Clark-Idylwood Electric Transmission Reconductor Project along the W&OD Trail. [topic: Parks & Recreation]
@@ -1374,7 +1381,7 @@ Meeting page: https://viennavadata.org/meeting/2024-05-20.html
 - Item 33165: Acceptance of the Minutes: [topic: Minutes]
 - Item 33184: Acceptance of the Regular Meeting Minutes of April 29, 2024 and May 6, 2024 and the Work Session Minutes of May 6, 2024. [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 33166: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33166: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33168: Reports/Presentations [topic: Procedural]
 - Item 33183: Proclamation for the 40th Anniversary of Viva Vienna [topic: Proclamations & Recognitions]
@@ -1407,7 +1414,7 @@ Meeting page: https://viennavadata.org/meeting/2024-05-06.html
 - Item 33032: Acceptance of the Minutes: [topic: Minutes]
 - Item 33048: Acceptance of the Draft Meeting Minutes of April 8, 2024 and the Draft Conference Session Minutes of April 15, 2024 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 33033: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33033: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33035: Reports/Presentations [topic: Procedural]
 - Item 33045: 7:45 p.m. - 7:55 p.m.  Presentation for Robert Dowler [topic: Proclamations & Recognitions]
@@ -1431,7 +1438,7 @@ Meeting page: https://viennavadata.org/meeting/2024-04-29.html
 - Item 33005: Invocation: Mercury Payton, Town Manager [topic: Procedural]
 - Item 33006: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 33007: Roll Call [topic: Procedural]
-- Item 33009: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 33009: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 33011: Reports/Presentations [topic: Procedural]
 - Item 33022: 7:45 p.m. - 7:55 p.m.  Presentation for Robert Dowler [topic: Proclamations & Recognitions]
@@ -1464,7 +1471,7 @@ Meeting page: https://viennavadata.org/meeting/2024-04-08.html
 - Item 32860: Acceptance of the Minutes: [topic: Minutes]
 - Item 32882: Acceptance of the Draft Conference Session Minutes of March 7, 2024, March 11, 2024 and the Draft Meeting Minutes of March 18, 2024 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 32861: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32861: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32863: 7:50 p.m. - 8:00 p.m. Reports/Presentations [topic: Procedural]
 - Item 32872: Proclamation for Steve, the Referee, Salyer [topic: Proclamations & Recognitions]
@@ -1501,7 +1508,7 @@ Meeting page: https://viennavadata.org/meeting/2024-03-18.html
 - Item 32760: Roll Call [topic: Procedural]
 - Item 32761: Acceptance of the Minutes: [topic: Minutes]
 - Item 32781: Acceptance of the Regular Council Meeting Minutes of February 26, 2024 And March 4, 2024. [topic: Minutes]
-- Item 32762: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32762: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32764: Reports/Presentations [topic: Procedural]
 - Item 32779: 7:45 p.m. - 8:15 p.m. - Presentation on Water and Sewer Rate Study Results [topic: Water, Sewer & Stormwater]
@@ -1536,7 +1543,7 @@ Meeting page: https://viennavadata.org/meeting/2024-03-04.html
 - Item 32556: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 32557: Roll Call [topic: Procedural]
 - Item 32558: Acceptance of the Minutes: None [topic: Minutes]
-- Item 32559: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32559: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32561: Reports/Presentations [topic: Procedural]
 - Item 32562: Report and Inquiries of Council Members [topic: Procedural]
@@ -1571,7 +1578,7 @@ Meeting page: https://viennavadata.org/meeting/2024-02-26.html
 - Item 32487: Acceptance of the Minutes: [topic: Minutes]
 - Item 32505: Acceptance of the Regular Council Meeting Minutes of January 29, 2024, February 5, 2024 and the Conference Session Minutes of February 5, 2024 and February 12, 2024 [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 32488: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32488: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32490: Reports/Presentations [topic: Procedural]
 - Item 32491: Report and Inquiries of Council Members [topic: Procedural]
@@ -1603,7 +1610,7 @@ Meeting page: https://viennavadata.org/meeting/2024-02-05.html
 - Item 32348: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 32349: Roll Call [topic: Procedural]
 - Item 32350: Acceptance of the Minutes: [topic: Minutes]
-- Item 32351: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32351: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32353: Reports/Presentations [topic: Procedural]
 - Item 32362: Recommendations to Improve the Business Permitting & Licensing Process [topic: Economic Development]
@@ -1629,7 +1636,7 @@ Meeting page: https://viennavadata.org/meeting/2024-01-29.html
 - Item 32290: Roll Call [topic: Procedural]
 - Item 32291: Acceptance of the Minutes: [topic: Minutes]
 - Item 32312: Acceptance of the Regular Meeting Minutes and Conference Session Minutes of January 2, 2024 and January 8, 2024 [topic: Minutes]
-- Item 32292: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32292: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32294: Reports/Presentations [topic: Procedural]
 - Item 32308: 7:40 p.m. to 7:50 p.m. - Green Hedges Dragons Middle School Co-Ed League Soccer Championship recognition [topic: Proclamations & Recognitions]
@@ -1672,7 +1679,7 @@ Meeting page: https://viennavadata.org/meeting/2024-01-08.html
 - Item 32092: Acceptance of the Minutes: [topic: Minutes]
 - Item 32108: Acceptance of the Council Meeting Minutes of December 4, 2023 and the Conference Session Minutes of December 4, 2023. [topic: Minutes]
   Result: 7 Aye. Roll call: Sandra Allen: Aye; Chuck Anderson: Aye; Roy Baldwin: Aye; Ray Brill Jr.: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 32093: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 32093: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 32095: Reports/Presentations [topic: Procedural]
 - Item 32104: 7:45p.m. - 8:15 p.m.   Mid-year Financial Review, FY 2023-24 [topic: Budget, Taxes & Finance]
@@ -1710,7 +1717,7 @@ Meeting page: https://viennavadata.org/meeting/2023-12-04.html
 - Item 31918: Roll Call [topic: Procedural]
 - Item 31919: Acceptance of the Minutes: [topic: Minutes]
 - Item 31942: Acceptance of the Council Meeting Minutes of November 13, 2023 [topic: Minutes]
-- Item 31920: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31920: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31922: Reports/Presentations [topic: Procedural]
 - Item 31932: 8:15 p.m. - 8:25 p.m. -  Boston Tea Party Proclamation [topic: Proclamations & Recognitions]
@@ -1748,7 +1755,7 @@ Meeting page: https://viennavadata.org/meeting/2023-11-13.html
 - Item 31742: Acceptance of the Minutes: [topic: Minutes]
 - Item 31762: Acceptance of the Regular Council Meeting Minutes of October 23 2023 [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Absent; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 31743: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31743: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31745: Reports/Presentations [topic: Procedural]
 - Item 31757: 2023 Halloween Parade Awards [topic: Proclamations & Recognitions]
@@ -1781,7 +1788,7 @@ Meeting page: https://viennavadata.org/meeting/2023-10-23.html
 - Item 31626: Acceptance of the Minutes: [topic: Minutes]
 - Item 31649: Acceptance of the Council Meeting Minutes of September 25, 2023 and October 2, 2023 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 31627: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31627: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31629: Reports/Presentations [topic: Procedural]
 - Item 31639: Presentation of GFOA's Distinguished Budget Award [topic: Budget, Taxes & Finance]
@@ -1824,7 +1831,7 @@ Meeting page: https://viennavadata.org/meeting/2023-10-02.html
 - Item 31492: Roll Call [topic: Procedural]
 - Item 31493: Acceptance of the Minutes: [topic: Minutes]
 - Item 31511: Acceptance of the Conference Session Minutes of September 18, 2023 [topic: Minutes]
-- Item 31494: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31494: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31496: Reports/Presentations [topic: Procedural]
 - Item 31497: Report and Inquiries of Council Members [topic: Procedural]
@@ -1860,7 +1867,7 @@ Meeting page: https://viennavadata.org/meeting/2023-09-25.html
 - Item 31448: Acceptance of the Minutes: [topic: Minutes]
 - Item 31462: Acceptance of the Regular Council Meeting Minutes of August 28, 2023, September 11, 2023 and the Conference Session Minutes of September 11, 2023. [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Absent; Linda Colbert: Aye.
-- Item 31449: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31449: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31451: Reports/Presentations [topic: Procedural]
 - Item 31461: Pickleball Schedule Policy Review, June 1 - August 31, 2023 [topic: Parks & Recreation]
@@ -1885,7 +1892,7 @@ Meeting page: https://viennavadata.org/meeting/2023-09-11.html
 - Item 31317: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 31318: Roll Call [topic: Procedural]
 - Item 31319: Acceptance of the Minutes: None [topic: Minutes]
-- Item 31320: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31320: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31322: Reports/Presentations [topic: Procedural]
 - Item 31323: Report and Inquiries of Council Members [topic: Procedural]
@@ -1918,7 +1925,7 @@ Meeting page: https://viennavadata.org/meeting/2023-08-28.html
 - Item 31248: Roll Call [topic: Procedural]
 - Item 31249: Acceptance of the Minutes: [topic: Minutes]
 - Item 31270: Acceptance of the Regular Council Meeting Minutes of July 10, 2023 and the Joint Public Hearing Minutes of July 12, 2023. [topic: Minutes]
-- Item 31250: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31250: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31252: Reports/Presentations [topic: Procedural]
 - Item 31266: Recognition of the Vienna Little League 10, 11 and 12 year old district title winners [topic: Proclamations & Recognitions]
@@ -1976,7 +1983,7 @@ Meeting page: https://viennavadata.org/meeting/2023-07-10.html
 - Item 31023: Acceptance of the Minutes: [topic: Minutes]
 - Item 31041: Acceptance of the Regular Council Meeting Minutes of June 12, 2023 and June 20, 2023 and the Conference Session Minutes of June 12, 2023 and June 20 2023. [topic: Minutes]
   Result: 6 Aye, 1 Abstain. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Abstain; Linda Colbert: Aye.
-- Item 31024: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 31024: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 31026: Reports/Presentations [topic: Procedural]
 - Item 31036: Check presentation to the Vienna Public Art Commission [topic: Proclamations & Recognitions]
@@ -2017,7 +2024,7 @@ Meeting page: https://viennavadata.org/meeting/2023-06-20.html
 - Item 30947: Acceptance of the Minutes: [topic: Minutes]
 - Item 30964: Acceptance of the Regular Council Meeting Minutes of June 5, 2023. [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Absent; Linda Colbert: Aye.
-- Item 30948: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30948: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30950: Reports/Presentations [topic: Procedural]
 - Item 30962: Tree Inventory Report [topic: Environment, Trees & Sustainability]
@@ -2064,7 +2071,7 @@ Meeting page: https://viennavadata.org/meeting/2023-06-05.html
 - Item 30816: Acceptance of the Minutes: [topic: Minutes]
 - Item 30846: Acceptance of the Regular Council Meeting Minutes of May 15, 2023 and the Conference Session Minutes of April 17, 2023 and May 8, 2023. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30817: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30817: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30819: Reports/Presentations [topic: Procedural]
 - Item 30837: Stormwater Management Presentation [topic: Water, Sewer & Stormwater]
@@ -2109,7 +2116,7 @@ Meeting page: https://viennavadata.org/meeting/2023-05-15.html
 - Item 30695: Acceptance of the Minutes: [topic: Minutes]
 - Item 30713: Acceptance of the Regular Council meeting minutes of April 24, 2023, Regular Council meeting minutes of May 1, 2023 and Conference Session minutes of May 1, 2023. [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Absent; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30696: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30696: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30698: Reports/Presentations [topic: Procedural]
 - Item 30699: National Gun Violence Awareness Day [topic: Proclamations & Recognitions]
@@ -2139,7 +2146,7 @@ Meeting page: https://viennavadata.org/meeting/2023-05-01.html
 - Item 30566: Acceptance of the Minutes: [topic: Minutes]
 - Item 30586: Acceptance of the Conference Session minutes of April 17, 2023 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30567: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30567: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30569: Reports/Presentations [topic: Procedural]
 - Item 30578: Proclamation for the Vienna Wireless Society’s 60th Anniversary [topic: Proclamations & Recognitions]
@@ -2171,9 +2178,9 @@ Meeting page: https://viennavadata.org/meeting/2023-04-24.html
 - Item 30503: Acceptance of the Minutes: [topic: Minutes]
 - Item 30524: Acceptance of the Regular Council Meeting Minutes of April 10, 2023 and the Conference Session Minutes of March 24, 2023, March 27, 2023, March 31, 2023 and April 10, 2023. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30504: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30504: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
-- Item 30619: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30619: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30506: Reports/Presentations [topic: Procedural]
 - Item 30515: 2023 Arbor Day Proclamation [topic: Proclamations & Recognitions]
@@ -2211,7 +2218,7 @@ Meeting page: https://viennavadata.org/meeting/2023-04-10.html
 - Item 30411: Acceptance of the Regular Council Meeting Minutes of March 6, 2023, March 20, 2023 and the Conference Session Minutes of March 6, 2023, March 11, 2023, March 12, 2023 and March 20, 2023. [topic: Minutes]
 - Item 30420: Acceptance of the Regular Council Meeting Minutes of March 6, 2023, March 20, 2023 and the Conference Session Minutes of March 6, 2023, March 11, 2023, March 12, 2023 and March 20, 2023. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30393: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30393: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30395: Reports/Presentations [topic: Procedural]
 - Item 30417: Proclamation For International Dark Sky Week [topic: Proclamations & Recognitions]
@@ -2247,7 +2254,7 @@ Meeting page: https://viennavadata.org/meeting/2023-03-20.html
 - Item 30204: Acceptance of the Minutes: [topic: Minutes]
 - Item 30229: Acceptance of the Regular Council Meeting Minutes of February 27, 2023 and March 6, 2023 and the Conference Session Minutes of February 13, 2023,  February 27, 2023 and March 6, 2023. [topic: Minutes]
   Result: 5 Aye, 1 Absent, 1 Abstain. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Absent; Howard J. Springsteen: Abstain; Linda Colbert: Aye.
-- Item 30205: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30205: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30207: Reports/Presentations [topic: Procedural]
 - Item 30219: Geographic Information System Mapping (ArcGIS) Presentation [topic: Contracts & Purchasing]
@@ -2287,7 +2294,7 @@ Meeting page: https://viennavadata.org/meeting/2023-03-06.html
 - Item 30046: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 30047: Roll Call [topic: Procedural]
 - Item 30048: Acceptance of the Minutes: No minutes for approval [topic: Minutes]
-- Item 30049: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30049: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30051: Reports/Presentations [topic: Procedural]
 - Item 30064: Presentation of Trees in Vienna: A Review of Programs to Help Vienna Preserve and Manage its Tree Canopy. [topic: Environment, Trees & Sustainability]
@@ -2319,7 +2326,7 @@ Meeting page: https://viennavadata.org/meeting/2023-02-27.html
 - Item 30009: Acceptance of the Minutes: [topic: Minutes]
 - Item 30023: Acceptance of the Regular Council Meeting Minutes of January 30, 2023 and February 6, 2023 and the Conference Session Minutes of January 23, 2023, January 30, 2023 and February 6, 2023. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30010: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 30010: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 30012: Reports/Presentations [topic: Procedural]
 - Item 30013: Report and Inquiries of Council Members [topic: Procedural]
@@ -2330,7 +2337,7 @@ Meeting page: https://viennavadata.org/meeting/2023-02-27.html
 - Item 30020: Regular Business [topic: Procedural]
 - Item 30021: Update Investment Policy [topic: Budget, Taxes & Finance]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 30022: Approve Second Year of Changes to Tax Relief for the Elderly and Disabled
+- Item 30022: Approve Second Year of Changes to Tax Relief for the Elderly and Disabled
 Code of Vienna Chapter 6, Section 6-4.2 [topic: Budget, Taxes & Finance]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 30024: Stop further engineering studies for final design of the sidewalk project on the even side of Melody Lane, SW. [topic: Streets, Sidewalks & Transportation]
@@ -2354,7 +2361,7 @@ Meeting page: https://viennavadata.org/meeting/2023-01-30.html
 - Item 29803: Acceptance of the Minutes: [topic: Minutes]
 - Item 29817: Acceptance of the Regular Council Meeting and the Conference Session Minutes of January 9, 2023 and the Joint Conference Session Minutes of December 7, 2022 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 29804: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 29804: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 29806: Reports/Presentations [topic: Procedural]
 - Item 29807: Report and Inquiries of Council Members [topic: Procedural]
@@ -2363,7 +2370,7 @@ Meeting page: https://viennavadata.org/meeting/2023-01-30.html
 - Item 29810: Proposals for Additional Items to the Agenda [topic: Procedural]
 - Item 29811: Closed Session Report [topic: Procedural]
 - Item 29813: Consent Agenda [topic: Consent Agenda]
-- Item 29815: Request approval for spending $1,350,000 with Crown Construction Service, Inc. for 
+- Item 29815: Request approval for spending $1,350,000 with Crown Construction Service, Inc. for 
 continued water main improvements within the Town’s water service area using Phase II ARPA funding. [topic: Water, Sewer & Stormwater]
 - Item 29816: Request approval of vehicle purchases within the Vehicle Replacement Program for FY23. [topic: Contracts & Purchasing]
 - Item 29814: Regular Business [topic: Procedural]
@@ -2379,7 +2386,7 @@ Meeting page: https://viennavadata.org/meeting/2023-01-09.html
 - Item 29643: Acceptance of the Minutes: [topic: Minutes]
 - Item 29658: Acceptance of the Joint Conference Session Minutes of November 29, 2022, the Regular Council Meeting of December 5, 2022 and the Conference Session Minutes of December 12, 2022 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 29644: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 29644: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 29646: Reports/Presentations [topic: Procedural]
 - Item 29647: Report and Inquiries of Council Members [topic: Procedural]
@@ -2409,7 +2416,7 @@ Meeting page: https://viennavadata.org/meeting/2022-12-05.html
 - Item 29464: Roll Call [topic: Procedural]
 - Item 29465: Acceptance of the Minutes: [topic: Minutes]
 - Item 29482: Acceptance of the Regular Council Meeting Minutes of November 14, 2022. [topic: Minutes]
-- Item 29466: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 29466: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 29468: Reports/Presentations [topic: Procedural]
 - Item 29478: Presentation of 2022 Annual Comprehensive Financial Report (ACFR) [topic: Budget, Taxes & Finance]
@@ -2438,7 +2445,7 @@ Meeting page: https://viennavadata.org/meeting/2022-11-14.html
 - Item 29338: Acceptance of the Minutes: [topic: Minutes]
 - Item 29357: Acceptance of the Regular Council meeting minutes of October 24, 2022, the Conference Session minutes of October 17, 2022 and the Special Conference Session Minutes of November 2, 2022. [topic: Minutes]
   Result: 4 Aye, 2 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Absent; Steve Potter: Absent; Howard J. Springsteen: Aye; Ed Somers: Aye.
-- Item 29339: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 29339: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 29341: Reports/Presentations [topic: Procedural]
 - Item 29355: 2022 Halloween Parade Awards [topic: Proclamations & Recognitions]
@@ -2478,7 +2485,7 @@ Meeting page: https://viennavadata.org/meeting/2022-10-24.html
 - Item 29251: Acceptance of the Minutes: [topic: Minutes]
 - Item 29270: Acceptance of the Regular Council Meeting Minutes and the Conference Session Minutes Of October 10, 2022 [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Absent; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 29252: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 29252: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 29254: Reports/Presentations [topic: Procedural]
 - Item 29275: Resolution for World Polio Awareness Day [topic: Proclamations & Recognitions]
@@ -2518,7 +2525,7 @@ Meeting page: https://viennavadata.org/meeting/2022-10-10.html
 - Item 29145: Acceptance of the Minutes: [topic: Minutes]
 - Item 29159: Acceptance of the Conference Session Minutes of September 19, 2022 and the Regular Meeting Minutes of September 26, 2022. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 29146: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 29146: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 29148: Reports/Presentations [topic: Procedural]
 - Item 29149: Report and Inquiries of Council Members [topic: Procedural]
@@ -2543,7 +2550,7 @@ Meeting page: https://viennavadata.org/meeting/2022-09-26.html
 - Item 28993: Roll Call [topic: Procedural]
 - Item 28994: Acceptance of the Minutes: [topic: Minutes]
 - Item 29016: Acceptance of the Regular Meeting Minutes and Conference Session Minutes of September 12, 2022 [topic: Minutes]
-- Item 28995: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28995: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28997: Reports/Presentations [topic: Procedural]
 - Item 29006: Honoring and Recognizing Business Employees [topic: Proclamations & Recognitions]
@@ -2583,7 +2590,7 @@ Meeting page: https://viennavadata.org/meeting/2022-09-12.html
 - Item 28894: Roll Call [topic: Procedural]
 - Item 28895: Acceptance of the Minutes: [topic: Minutes]
 - Item 28911: Acceptance of the Regular Council Meeting Minutes and Conference Session Minutes of July 11, 2022, and the Regular Council Meeting minutes of August 29, 2022 [topic: Minutes]
-- Item 28896: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28896: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28898: Reports/Presentations [topic: Procedural]
 - Item 28907: Proclamation for the Vienna chapter of the Daughters of the American Revolution (DAR) [topic: Proclamations & Recognitions]
@@ -2612,7 +2619,7 @@ Meeting page: https://viennavadata.org/meeting/2022-08-29.html
 - Item 28818: Roll Call [topic: Procedural]
 - Item 28819: Acceptance of the Minutes: [topic: Minutes]
 - Item 28836: Acceptance of the Regular Council Meeting Minutes and Conference Session Minutes of July 11, 2022 [topic: Minutes]
-- Item 28820: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28820: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28822: Reports/Presentations [topic: Procedural]
 - Item 28831: Resolution of Appreciation - Leigh Kitcher - Liberty Amendments Month [topic: Proclamations & Recognitions]
@@ -2667,7 +2674,7 @@ Meeting page: https://viennavadata.org/meeting/2022-06-06.html
 - Item 28348: Acceptance of the Minutes: [topic: Minutes]
   Result: 5 Aye, 2 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Absent; Howard J. Springsteen: Aye; Linda Colbert: Absent.
 - Item 28368: Acceptance of the Regular Council Meeting Minutes of May 11, 2022, May 16, 2022 and the Conference Session Minutes of May 9, 2022 [topic: Minutes]
-- Item 28349: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28349: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28351: Reports/Presentations [topic: Procedural]
 - Item 28363: Proclamation for Men’s Health Month and Men’s Health Week [topic: Proclamations & Recognitions]
@@ -2700,7 +2707,7 @@ Meeting page: https://viennavadata.org/meeting/2022-05-16.html
 - Item 28204: Approval of the Minutes: [topic: Minutes]
 - Item 28220: Acceptance of the Regular Council Meeting Minutes of April 25, 2022, May 2, 2022 and the Conference Session Minutes of April 18, 2022 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 28205: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28205: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28207: Reports/Presentations [topic: Procedural]
 - Item 28221: Proclamation to recognize International Dark Sky Week in Vienna [topic: Proclamations & Recognitions]
@@ -2741,7 +2748,7 @@ Meeting page: https://viennavadata.org/meeting/2022-05-02.html
 - Item 28081: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 28082: Roll Call [topic: Procedural]
 - Item 28083: Acceptance of the Minutes: None [topic: Minutes]
-- Item 28084: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28084: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28086: Reports/Presentations [topic: Procedural]
 - Item 28102: Proclamation for National Stroke Month [topic: Proclamations & Recognitions]
@@ -2771,7 +2778,7 @@ Meeting page: https://viennavadata.org/meeting/2022-04-25.html
 - Item 28030: Acceptance of the Minutes: [topic: Minutes]
 - Item 28050: Acceptance of the Regular Council Meeting Minutes of April 11, 2022 and the Conference Session Minutes of March 24, 2022, March 28, 2022 and March 31, 2022. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye.
-- Item 28031: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 28031: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 28033: Reports/Presentations [topic: Procedural]
 - Item 28049: 2022 Arbor Day Proclamation [topic: Proclamations & Recognitions]
@@ -2808,7 +2815,7 @@ Meeting page: https://viennavadata.org/meeting/2022-04-11.html
 - Item 27900: Acceptance of the Minutes: [topic: Minutes]
 - Item 27923: Acceptance of the Regular Council Meeting Minutes of March 21, 2022 and the Conference Session Minutes of March 12, 2022 and March 14, 2022. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 27901: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 27901: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 27903: Reports/Presentations [topic: Procedural]
 - Item 27904: Report and Inquiries of Council Members [topic: Procedural]
@@ -2852,7 +2859,7 @@ Meeting page: https://viennavadata.org/meeting/2022-03-21.html
 - Item 27730: Acceptance of the Minutes: [topic: Minutes]
 - Item 27755: Acceptance of the Regular Council Meeting Minutes of February 28, 2022 and March 7, 2022 and the Special Council Meeting on The Bond Sale February 22, 2022. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 27731: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 27731: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 27733: Reports/Presentations [topic: Procedural]
 - Item 27734: Report and Inquiries of Council Members [topic: Procedural]
@@ -2897,7 +2904,7 @@ Meeting page: https://viennavadata.org/meeting/2022-03-07.html
 - Item 27590: Acceptance of the Minutes: [topic: Minutes]
 - Item 27607: Acceptance of the Conference Session Minutes of November 30, 2021 and February 2, 2022. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 27591: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 27591: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 27593: Reports/Presentations [topic: Procedural]
 - Item 27606: Delegate Mark Keam- Legislative Update [topic: Grants & Intergovernmental]
@@ -2931,7 +2938,7 @@ Meeting page: https://viennavadata.org/meeting/2022-02-28.html
 - Item 27542: Approval of the Minutes: [topic: Minutes]
 - Item 27557: Acceptance of the Regular Council Meeting Minutes of January 24, 2022 and February 7, 2022 and the Conference Session of February 14, 2022 [topic: Minutes]
   Result: 1 Absent, 6 Aye. Roll call: Ray Brill Jr.: Absent; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye; Chuck Anderson: Aye.
-- Item 27543: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 27543: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 27545: Reports/Presentations [topic: Procedural]
 - Item 27546: Report and Inquiries of Council Members [topic: Procedural]
@@ -2973,7 +2980,7 @@ Meeting page: https://viennavadata.org/meeting/2022-02-07.html
 - Item 27391: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 27392: Roll Call [topic: Procedural]
 - Item 27393: Acceptance of the Minutes: None [topic: Minutes]
-- Item 27394: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 27394: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 27396: Reports/Presentations [topic: Procedural]
 - Item 27397: Report and Inquiries of Council Members [topic: Procedural]
@@ -3004,7 +3011,7 @@ Meeting page: https://viennavadata.org/meeting/2022-01-24.html
 - Item 27276: Approval of the Minutes: [topic: Minutes]
 - Item 27299: Acceptance of the Regular Council Meeting Minutes of December 6, 2021 and the Conference Session Minutes of September 1, 2021, September 20, 2021, December 13, 2021 and January 10, 2022 [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Absent; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 27277: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 27277: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 27279: Reports/Presentations [topic: Procedural]
 - Item 27294: Presentation by Vienna Public Art Commission [topic: Proclamations & Recognitions]
@@ -3053,7 +3060,7 @@ Meeting page: https://viennavadata.org/meeting/2021-12-06.html
 - Item 26983: Approval of the Minutes: [topic: Minutes]
 - Item 27012: Acceptance of the Regular Council Meeting Minutes of November 15, 2021 and the Town Council Conference Session Minutes of November 8, 2021. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 26984: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26984: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26986: Reports/Presentations [topic: Procedural]
 - Item 26999: Presentation of Certificate of Achievement for Excellence in Financial Reporting [topic: Budget, Taxes & Finance]
@@ -3097,7 +3104,7 @@ Meeting page: https://viennavadata.org/meeting/2021-11-15.html
 - Item 26830: Approval of the Minutes: [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 26851: Acceptance of the Regular Council Meeting Minutes of October 25, 2021 and November 1, 2021. [topic: Minutes]
-- Item 26831: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26831: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26833: Reports/Presentations - Introduction of New Videographer [topic: Procedural]
 - Item 26838: Closed Session [topic: Procedural]
@@ -3137,7 +3144,7 @@ Meeting page: https://viennavadata.org/meeting/2021-11-01.html
 - Item 26685: Acceptance of the Minutes: [topic: Minutes]
 - Item 26703: Acceptance of the October 18, 2021 Conference Session Minutes [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 26686: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26686: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26688: Reports/Presentations [topic: Procedural]
 - Item 26697: Recognition of Life Saving Actions. [topic: Proclamations & Recognitions]
@@ -3167,7 +3174,7 @@ Meeting page: https://viennavadata.org/meeting/2021-10-25.html
 - Item 26658: Approval of the Minutes: [topic: Minutes]
 - Item 26681: Acceptance of the Regular Council Meeting Minutes of October 11, 2021 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 26659: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26659: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26661: Reports/Presentations [topic: Procedural]
 - Item 26670: New Town of Vienna Police Officer Introductions [topic: Public Safety]
@@ -3200,7 +3207,7 @@ Meeting page: https://viennavadata.org/meeting/2021-10-11.html
 - Item 26468: Acceptance of the Minutes: [topic: Minutes]
 - Item 26487: Acceptance of the Regular Council Meeting Minutes of September 13, 2021, September 27, 2021, and the Two Conference Session Minutes of September 27, 2021 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 26469: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26469: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26476: Closed Session Report [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
@@ -3228,7 +3235,7 @@ Meeting page: https://viennavadata.org/meeting/2021-09-27.html
 - Item 26379: Roll Call [topic: Procedural]
 - Item 26380: Acceptance of the Minutes: [topic: Minutes]
 - Item 26398: Acceptance of the Regular Council Meeting Minutes of September 13, 2021 [topic: Minutes]
-- Item 26381: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26381: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26425: Reports/Presentations [topic: Procedural]
 - Item 26389: Presentation on Results of Public Engagement Efforts on Potential Updates to the Zoning Code for Lot Coverage and Porch Projections into the Front Yard [topic: Land Use, Zoning & Development]
@@ -3257,7 +3264,7 @@ Meeting page: https://viennavadata.org/meeting/2021-09-13.html
 - Item 26104: Roll Call [topic: Procedural]
 - Item 26105: Acceptance of the Minutes: [topic: Minutes]
 - Item 26125: Acceptance of the Regular Council Meeting Minutes of August 30, 2021 and the Conference Session Minutes of August 30, 2021. [topic: Minutes]
-- Item 26106: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 26106: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 26113: Closed Session Report [topic: Procedural]
 - Item 26426: Reports/Presentations [topic: Procedural]
@@ -3287,7 +3294,7 @@ Meeting page: https://viennavadata.org/meeting/2021-08-30.html
 - Item 25956: Roll Call [topic: Procedural]
 - Item 25957: Acceptance of the Minutes: [topic: Minutes]
 - Item 25976: Approval of the Regular Council Meeting Minutes of July 12, 2021. [topic: Minutes]
-- Item 25958: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 25958: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 25965: Closed Session Report [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye; Steve Potter: Aye.
@@ -3317,7 +3324,7 @@ Meeting page: https://viennavadata.org/meeting/2021-07-12.html
 - Item 25684: Roll Call [topic: Procedural]
 - Item 25685: Acceptance of the Minutes: [topic: Minutes]
 - Item 25717: Acceptance of the Regular Council Meeting Minutes of June 7, 2021 and the Conference Session Minutes of June 14, 2021 [topic: Minutes]
-- Item 25686: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 25686: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 25688: Reports/Presentations [topic: Procedural]
 - Item 25713: Preliminary Results for FY 2020-21 [topic: Budget, Taxes & Finance]
@@ -3365,7 +3372,7 @@ Meeting page: https://viennavadata.org/meeting/2021-06-07.html
 - Item 25418: Approval of the Minutes: [topic: Minutes]
 - Item 25442: Acceptance of the Regular Council Meeting Minutes of May 17, 2021 and the Conference Session Minutes of May 10, 2021, iMay 24, 2021 and May 26, 2021. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 25419: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 25419: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 25426: Closed Session Report [topic: Procedural]
 - Item 25428: Consent Agenda [topic: Consent Agenda]
@@ -3404,7 +3411,7 @@ Meeting page: https://viennavadata.org/meeting/2021-05-17.html
 - Item 25163: Approval of the Minutes: [topic: Minutes]
 - Item 25187: Acceptance of the Regular Council Meeting Minutes of April 26, 2021 and the Conference Session Minutes of April 19, 2021. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 25164: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 25164: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 25171: Closed Session [topic: Procedural]
 - Item 25173: Consent Agenda [topic: Consent Agenda]
@@ -3441,7 +3448,7 @@ Meeting page: https://viennavadata.org/meeting/2021-04-26.html
 - Item 24985: Approval of the Minutes: [topic: Minutes]
 - Item 25004: Acceptance of the Regular Council Meeting Minutes of April 12, 2021 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 24986: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 24986: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 24988: Reports/Presentations [topic: Procedural]
 - Item 25002: Financial Report on First Three Quarters of Fiscal 20-2021 [topic: Budget, Taxes & Finance]
@@ -3477,7 +3484,7 @@ Meeting page: https://viennavadata.org/meeting/2021-04-12.html
 - Item 24792: Roll Call [topic: Procedural]
 - Item 24793: Approval of the Minutes: [topic: Minutes]
 - Item 24812: Acceptance of the Conference Session minutes of March 13, 2021 and March 15, 2021, the Regular Council Meeting minutes of March 22, 2021 and the Joint Conference Session minutes of March 31, 2021. [topic: Minutes]
-- Item 24794: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 24794: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 24796: Reports/Presentations [topic: Procedural]
 - Item 24811: Viva Vienna 2021 Update [topic: Community, Arts & Events]
@@ -3509,7 +3516,7 @@ Meeting page: https://viennavadata.org/meeting/2021-03-22.html
 - Item 24628: Roll Call [topic: Procedural]
 - Item 24629: Acceptance of the Minutes: [topic: Minutes]
 - Item 24643: Acceptance of the Regular Council Meeting Minutes of February 22, 2021, March 1, 2021 and March 8, 2021, and the Conference Session Minutes of March 8, 2021. [topic: Minutes]
-- Item 24630: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 24630: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 24637: Closed Session Report [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
@@ -3551,7 +3558,7 @@ Meeting page: https://viennavadata.org/meeting/2021-03-01.html
 - Item 24288: Invocation: Councilmember Brill [topic: Procedural]
 - Item 24289: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 24290: Roll Call [topic: Procedural]
-- Item 24292: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 24292: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 24321: Reports/Presentations [topic: Procedural]
 - Item 24322: Viva Vienna 2021 Update [topic: Community, Arts & Events]
@@ -3573,7 +3580,7 @@ Meeting page: https://viennavadata.org/meeting/2021-02-22.html
 - Item 24227: Roll Call [topic: Procedural]
 - Item 24228: Acceptance of the Minutes: [topic: Minutes]
 - Item 24247: Acceptance of the Regular Council Meeting Minutes of February 1, 2021 and the Conference Session Minutes of January 25, 2021, February 4, 2021 and February 8, 2021. [topic: Minutes]
-- Item 24229: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 24229: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 24252: Reports/Presentations [topic: Procedural]
 - Item 24245: Financial Report on First Seven Months of Fiscal 2021 [topic: Budget, Taxes & Finance]
@@ -3604,7 +3611,7 @@ Meeting page: https://viennavadata.org/meeting/2021-02-01.html
 - Item 24086: Roll Call [topic: Procedural]
 - Item 24087: Acceptance of the Minutes: [topic: Minutes]
 - Item 24106: Acceptance of the Regular Council Meeting Minutes of January 4, 2021 and the Conference Session Minutes of December 3, 2020 and January 11, 2021. [topic: Minutes]
-- Item 24088: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 24088: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 24095: Closed Session Report [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
@@ -3633,7 +3640,7 @@ Meeting page: https://viennavadata.org/meeting/2021-01-04.html
 - Item 23959: Approval of the Minutes: [topic: Minutes]
 - Item 23978: Acceptance of the Regular Council Meeting Minutes of December 7, 2020 and the Work Session Minutes of December 14, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23960: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23960: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23967: Closed Session Report [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
@@ -3664,7 +3671,7 @@ Meeting page: https://viennavadata.org/meeting/2020-12-07.html
 - Item 23886: Acceptance of the Regular Council Meeting Minutes of November 16, 2020 and the Work Session Minutes of October 28, 2020 and November 9, 2020. [topic: Minutes]
 - Item 23911: Acceptance of the Regular Council Meeting Minutes of November 16, 2020 and the Work Session Minutes of October 28, 2020 and November 9, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23866: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23866: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23891: Reports/Presentations [topic: Procedural]
 - Item 23885: Presentation of 2020 Comprehensive Annual Financial Report (CAFR) [topic: Budget, Taxes & Finance]
@@ -3699,7 +3706,7 @@ Meeting page: https://viennavadata.org/meeting/2020-11-16.html
 - Item 23771: Approval of the Minutes: [topic: Minutes]
 - Item 23786: Acceptance of the Regular Council Meeting Minutes of October 26, 2020, November 2, 2020 and the Work Session Minutes of October 28, 2020 [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23772: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23772: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23774: Reports/Presentations [topic: Procedural]
 - Item 23785: Presentation of Certificate of Achievement for Excellence in Financial Reporting [topic: Budget, Taxes & Finance]
@@ -3722,7 +3729,7 @@ Meeting page: https://viennavadata.org/meeting/2020-11-02.html
 - Item 23703: Acceptance of the Minutes: [topic: Minutes]
 - Item 23721: Acceptance of the Work Session Minutes of October 19, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23704: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23704: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23711: Closed Session [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
@@ -3752,7 +3759,7 @@ Meeting page: https://viennavadata.org/meeting/2020-10-26.html
 - Item 23651: Approval of the Minutes: [topic: Minutes]
 - Item 23668: Acceptance of the Regular Council Meeting Minutes of October 5, 2020 and the Work Session Minutes of September 28, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23652: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23652: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23673: Presentation [topic: Procedural]
 - Item 23666: Financial Review First Quarter 2020-21 [topic: Budget, Taxes & Finance]
@@ -3781,7 +3788,7 @@ Meeting page: https://viennavadata.org/meeting/2020-10-05.html
 - Item 23534: Acceptance of Minutes: [topic: Minutes]
 - Item 23553: Acceptance of the Regular Council Meeting Minutes of September 14, 2020 and the Work Session Minutes of September 21, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23535: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23535: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23542: Closed Session [topic: Procedural]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
@@ -3814,7 +3821,7 @@ Meeting page: https://viennavadata.org/meeting/2020-09-14.html
 - Item 23345: Approval of the Minutes: [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 23404: Acceptance of the Special Council Meeting Minutes of August 19, 2020 and September, 4, 2020, the Regular Council Meeting Minutes of August 31, 2020 and the Work Session Minutes of 8-31-2020. [topic: Minutes]
-- Item 23346: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23346: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23348: Presentations [topic: Procedural]
 - Item 23370: Presentation for the Maple Avenue Multimodal study. [topic: Proclamations & Recognitions]
@@ -3874,7 +3881,7 @@ Meeting page: https://viennavadata.org/meeting/2020-08-31.html
 - Item 23237: Acceptance of the Minutes: [topic: Minutes]
 - Item 23261: Acceptance of the July 6, 2020 Council Meeting Minutes. [topic: Minutes]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Ray Brill Jr.: Aye; Nisha Patel: Aye; Steve Potter: Aye; Ed Somers: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
-- Item 23238: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23238: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23245: Closed Session Report [topic: Procedural]
 - Item 23271: Closed Session [topic: Procedural]
@@ -3936,7 +3943,7 @@ Meeting page: https://viennavadata.org/meeting/2020-07-06.html
 - Item 23033: Resolution for Continuity of Government [topic: Governance & Administration]
 - Item 23005: Approval of the Minutes: [topic: Minutes]
 - Item 23035: Acceptance of the Regular Council Meeting Minutes of June 15, 2020 and the Work Session minutes of June 8, 2020. [topic: Minutes]
-- Item 23006: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 23006: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 23070: Mayor's Response to June 15, 2020 Petition [topic: Governance & Administration]
 - Item 23013: Closed Session [topic: Procedural]
@@ -3981,7 +3988,7 @@ Meeting page: https://viennavadata.org/meeting/2020-06-15.html
 - Item 22899: Acceptance of the Minutes: [topic: Minutes]
 - Item 22929: Acceptance of the Regular Council Meeting Minutes of June 1, 2020 [topic: Minutes]
 - Item 22938: Presentations to Departing Elected Officials and Board/Commission members [topic: Proclamations & Recognitions]
-- Item 22900: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22900: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22907: Closed Session [topic: Procedural]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
@@ -4021,7 +4028,7 @@ Meeting page: https://viennavadata.org/meeting/2020-06-01.html
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
 - Item 22790: Acceptance of the Minutes: [topic: Minutes]
 - Item 22811: Acceptance of the Regular Council Meeting Minutes of May 11, 2020 and the Work Session Minutes of May 18, 2020. [topic: Minutes]
-- Item 22815: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22815: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22810: Closed Session [topic: Procedural]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
@@ -4056,7 +4063,7 @@ Meeting page: https://viennavadata.org/meeting/2020-05-11.html
 - Item 22643: Acceptance of the Regular Council Meeting Minutes of April 27, 2020 and the Work Session Minutes of April 20, 2020. [topic: Minutes]
 - Item 22703: Closed Session [topic: Procedural]
   Result: 5 Aye, 2 Abstain. Roll call: Linda Colbert: Aye; Pasha Majdi: Abstain; Douglas Noble: Abstain; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 22646: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22646: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22638: Regular Business [topic: Procedural]
 - Item 22641: Intent to Adopt FY 2020-21 Water and Sewer Rates [topic: Water, Sewer & Stormwater]
@@ -4153,7 +4160,7 @@ Meeting page: https://viennavadata.org/meeting/2020-03-09.html
 - Item 22357: Approval of the Minutes: [topic: Minutes]
 - Item 22376: Acceptance of the Regular Council Meeting Minutes of February 24, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 22358: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22358: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22360: Reports/Presentations [topic: Procedural]
 - Item 22370: Proclamation for National Athletic Trainer Month [topic: Proclamations & Recognitions]
@@ -4181,7 +4188,7 @@ Meeting page: https://viennavadata.org/meeting/2020-02-24.html
 - Item 22292: Roll Call [topic: Procedural]
 - Item 22293: Approval of the Minutes: [topic: Minutes]
 - Item 22332: Acceptance of the Regular Council Meeting Minutes of January 27, 2020, February 3, 2020 and the Work Session minutes of February 10, 2020. [topic: Minutes]
-- Item 22294: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22294: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22296: Reports/Presentations [topic: Procedural]
 - Item 22310: Presentation of draft design and construction agreement with Fairfax County for public parking to be incorporated into redevelopment of Patrick Henry Library [topic: Streets, Sidewalks & Transportation]
@@ -4221,7 +4228,7 @@ Meeting page: https://viennavadata.org/meeting/2020-02-03.html
 - Item 22186: Approval of the Minutes: [topic: Minutes]
 - Item 22200: Work Session Minutes of October 22, 2019, December 11, 2019, December 16, 2019 and January 13, 2020. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 22187: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22187: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22189: Reports/Presentations [topic: Procedural]
 - Item 22199: 2019 Investment Report [topic: Budget, Taxes & Finance]
@@ -4246,7 +4253,7 @@ Meeting page: https://viennavadata.org/meeting/2020-01-27.html
 - Item 22158: Minutes [topic: Minutes]
 - Item 22172: Work Session Minutes of September 9, 2019, October 9, 2019, and November 7, 2019 and the Regular Meeting Minutes of December 9, 2019 and January 6, 2020 [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 22159: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22159: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22161: Reports/Presentations [topic: Procedural]
 - Item 22171: Presentation of Mid-Year Financial Review for fiscal year 2020 [topic: Budget, Taxes & Finance]
@@ -4280,7 +4287,7 @@ Meeting page: https://viennavadata.org/meeting/2020-01-06.html
 - Item 22022: Roll Call [topic: Procedural]
 - Item 22023: Approval of the Minutes: [topic: Minutes]
 - Item 22039: Regular Council Meeting minutes of November 4, 2019, the Work Session Minutes of October 28, 2019, November 18, 2019 and December 4, 2019. [topic: Minutes]
-- Item 22024: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 22024: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 22026: Reports/Presentations [topic: Procedural]
 - Item 22041: Vienna Sustainability Challenge Awards [topic: Proclamations & Recognitions]
@@ -4314,7 +4321,7 @@ Meeting page: https://viennavadata.org/meeting/2019-12-09.html
 - Item 21799: Roll Call [topic: Procedural]
 - Item 21800: Approval of the Minutes: [topic: Minutes]
 - Item 21814: Approval of the Work Session Minutes of September 9, 2019, September 23, 2019, October 9, 2019, October 22, 2019, May 20, 2019 and the Special Meeting of May 20, 2019. [topic: Minutes]
-- Item 21801: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 21801: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 21803: Reports/Presentations [topic: Procedural]
 - Item 21823: Presentation of 2019 Comprehensive Annual Financial Report (CAFR) [topic: Budget, Taxes & Finance]
@@ -4367,7 +4374,7 @@ Meeting page: https://viennavadata.org/meeting/2019-11-04.html
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
 - Item 21367: Approval of the Work Session Minutes of June 10, 2019 and the Regular Council Meeting Minutes of October 21, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 21257: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 21257: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 21259: Reports/Presentations [topic: Procedural]
 - Item 21271: 2019 Halloween Parade Awards [topic: Proclamations & Recognitions]
@@ -4409,7 +4416,7 @@ Meeting page: https://viennavadata.org/meeting/2019-10-21.html
 - Item 21137: Approval of the Minutes: [topic: Minutes]
 - Item 21155: Approval of the Joint Work Session Minutes of May 1, 2019, The Work Session Minutes of September 16, 2019 and the Regular Meeting Minutes of September 30, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 21138: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 21138: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 21140: Reports/Presentations [topic: Procedural]
 - Item 21192: Recognition of James Madison High School Band as State Champions [topic: Proclamations & Recognitions]
@@ -4447,7 +4454,7 @@ Meeting page: https://viennavadata.org/meeting/2019-09-30.html
 - Item 21048: Approval of the Minutes: [topic: Minutes]
 - Item 21067: Approval of the Regular Council Meeting Minutes of September 16, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 21049: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 21049: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 21051: Reports/Presentations [topic: Procedural]
 - Item 21061: Recognition of the 50th Anniversary of Boy Scout Troop 1539 [topic: Proclamations & Recognitions]
@@ -4482,7 +4489,7 @@ Meeting page: https://viennavadata.org/meeting/2019-09-16.html
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
 - Item 20969: Approval of the Regular Council Meeting Minutes of July 15 2019 and August 19, 2019, the Work Session Minutes of April 3, 2019, April 22, 2019 and August 19, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 20946: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 20946: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20948: Reports/Presentations [topic: Procedural]
 - Item 20974: Recognition of James Madison High School Sports Teams [topic: Proclamations & Recognitions]
@@ -4549,7 +4556,7 @@ Meeting page: https://viennavadata.org/meeting/2019-07-01.html
 - Item 20667: Approval of the Minutes: [topic: Minutes]
 - Item 20691: Approval of the Work Session Minutes of March 4, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Nisha Patel: Aye; Steve Potter: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 20668: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 20668: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20670: Reports/Presentations [topic: Procedural]
 - Item 20690: Proclamation for Ayr Hill Garden Club 90th Anniversary [topic: Proclamations & Recognitions]
@@ -4597,7 +4604,7 @@ Meeting page: https://viennavadata.org/meeting/2019-06-17.html
 - Item 20602: Approval of the Minutes: [topic: Minutes]
 - Item 20625: Approval of the Regular Council Meeting Minutes of May 13, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 20603: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 20603: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20605: Reports/Presentations [topic: Procedural]
 - Item 20630: Presentation to Councilmember Tara Bloch Honoring Her Years of Service to the Town of Vienna [topic: Proclamations & Recognitions]
@@ -4660,7 +4667,7 @@ Meeting page: https://viennavadata.org/meeting/2019-06-03.html
 - Item 20496: Approval of the Minutes: [topic: Minutes]
 - Item 20545: Approval of the Regular Council Meeting Minutes of April 29, 2019 [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 20497: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 20497: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20499: Reports/Presentations [topic: Procedural]
 - Item 20500: Report and Inquiries of Council Members [topic: Procedural]
@@ -4670,8 +4677,8 @@ Meeting page: https://viennavadata.org/meeting/2019-06-03.html
 - Item 20504: Closed Session [topic: Procedural]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
 - Item 20505: Public Hearings [topic: Procedural]
-- Item 20521: Continuation of public hearing on rezoning of 374-380 Maple Avenue W from C-1 Local Commercial zone and RS-16 Single-Family Detached Residential zone to Maple Avenue Commercial (MAC) zone for 380 Maple, a mixed-use building with ground floor retail and multifamily residential condominium units.
-AND
+- Item 20521: Continuation of public hearing on rezoning of 374-380 Maple Avenue W from C-1 Local Commercial zone and RS-16 Single-Family Detached Residential zone to Maple Avenue Commercial (MAC) zone for 380 Maple, a mixed-use building with ground floor retail and multifamily residential condominium units.
+AND
 Consideration of a request for a related modification of requirement. [topic: Land Use, Zoning & Development]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
 - Item 20519: Public hearing on rezoning of 100-112 Maple Avenue E from C-2 General Commercial zone and C-1A Special Commercial zone to Maple Avenue Commercial (MAC) zone for Sunrise Assisted Living 
@@ -4722,7 +4729,7 @@ Meeting page: https://viennavadata.org/meeting/2019-05-13.html
 - Item 20350: Approval of the Minutes: [topic: Minutes]
 - Item 20373: Approval of the Regular Council Meeting Minutes of April 8, 2019 and the Work Session Minutes of February 11, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 20351: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 20351: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20353: Reports/Presentations [topic: Procedural]
 - Item 20371: Proclamation for Bicycle Awareness Month [topic: Proclamations & Recognitions]
@@ -4765,7 +4772,7 @@ Meeting page: https://viennavadata.org/meeting/2019-04-29.html
 - Item 20277: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 20278: Roll Call [topic: Procedural]
 - Item 20279: Approval of the Minutes: None [topic: Minutes]
-- Item 20280: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 20280: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20282: Reports/Presentations [topic: Procedural]
 - Item 20301: Proclamation for Volunteer Recognition Day 2019 [topic: Proclamations & Recognitions]
@@ -4814,7 +4821,7 @@ Meeting page: https://viennavadata.org/meeting/2019-04-08.html
 - Item 20162: Approval of the Minutes: [topic: Minutes]
 - Item 20178: Approval of the Regular Council Meeting minutes of February 25, 2019, revised, Regular Council Meeting Minutes of March 11, 2019 the Work Session Minutes of January 14, 2019 and March 16, 2019. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 20163: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 20163: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 20165: Reports/Presentations [topic: Procedural]
 - Item 20176: Proclamation for Children and Youth Month [topic: Proclamations & Recognitions]
@@ -4854,7 +4861,7 @@ Meeting page: https://viennavadata.org/meeting/2019-03-11.html
 - Item 19954: Roll Call [topic: Procedural]
 - Item 19955: Approval of the Minutes: [topic: Minutes]
 - Item 19972: Approval of the Regular Council Meeting Minutes of February 25, 2019 [topic: Minutes]
-- Item 19956: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19956: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19958: Reports/Presentations [topic: Procedural]
 - Item 19967: Resolution for the 50th Anniversary of Planning Districts in the Commonwealth [topic: Proclamations & Recognitions]
@@ -4876,22 +4883,22 @@ Meeting page: https://viennavadata.org/meeting/2019-03-11.html
 - Item 20071: Second Closed Session [topic: Procedural]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
 - Item 19973: Meeting Adjournment [topic: Procedural]
-- Item 19974: _______________________________
-                                                          Mayor Laurie A. DiRocco
-
-
-Signed / Dated: __________________________
-
-
-Attest:        _______________________________
-                                    Town Clerk
-
-
-
-
-
-
-
+- Item 19974: _______________________________
+                                                          Mayor Laurie A. DiRocco
+
+
+Signed / Dated: __________________________
+
+
+Attest:        _______________________________
+                                    Town Clerk
+
+
+
+
+
+
+
 THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS.  TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT.  PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2019-02-25
@@ -4902,7 +4909,7 @@ Meeting page: https://viennavadata.org/meeting/2019-02-25.html
 - Item 19859: Approval of the Minutes: [topic: Minutes]
 - Item 19877: Approval of the Regular Council Meeting Minutes of January 28, 2019. [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Tara Bloch: Aye; Linda Colbert: Absent; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 19860: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19860: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19862: Reports/Presentations [topic: Procedural]
 - Item 19873: Proclamation for Black History Month [topic: Proclamations & Recognitions]
@@ -4932,7 +4939,7 @@ Meeting page: https://viennavadata.org/meeting/2019-01-28.html
 - Item 19742: Approval of the Minutes: [topic: Minutes]
 - Item 19760: Approval of the Regular Council Meeting Minutes of January 7, 2019 and the Work Session Minutes of December 3, 2018 and January 15, 2019. [topic: Minutes]
 - Item 20787: Approval of the Regular Council Meeting Minutes of January 7, 2019 and the Work Session Minutes of December 3, 2018 and January 15, 2019. [topic: Minutes]
-- Item 19743: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19743: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19745: Reports/Presentations [topic: Procedural]
 - Item 19759: Town Business Liaison Committee Report on 2018 Activities and State of Businesses in Vienna [topic: Economic Development]
@@ -4968,7 +4975,7 @@ Meeting page: https://viennavadata.org/meeting/2019-01-07.html
 - Item 19610: Approval of the Minutes: [topic: Minutes]
 - Item 19633: Approval of the Regular Council Meeting Minutes of September 17, 2018, December 10, 2018 and the Work Session Minutes of November 5, 2018. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 19611: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19611: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19613: Reports/Presentations [topic: Procedural]
 - Item 19625: Proclamation for the National Day of Racial Healing [topic: Proclamations & Recognitions]
@@ -5012,7 +5019,7 @@ Meeting page: https://viennavadata.org/meeting/2018-12-10.html
 - Item 19537: Roll Call [topic: Procedural]
 - Item 19538: Approval of the Minutes: [topic: Minutes]
 - Item 19560: Approval of the Regular Minutes of November 19, 2018 and the Work Session Minutes of October 22, 2018. [topic: Minutes]
-- Item 19539: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19539: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19541: Reports/Presentations [topic: Procedural]
 - Item 19550: Certificate of Appreciation for DH Scarborough [topic: Proclamations & Recognitions]
@@ -5053,7 +5060,7 @@ Meeting page: https://viennavadata.org/meeting/2018-11-19.html
 - Item 19459: Approval of the Minutes: [topic: Minutes]
 - Item 19480: Approval of The Regular Council Meeting Minutes of October 29, 2018 and the Work Session Minutes of October 4, 2018. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye; Douglas Noble: Aye.
-- Item 19460: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19460: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19462: Reports/Presentations [topic: Procedural]
 - Item 19476: 2018 Halloween Parade Awards [topic: Proclamations & Recognitions]
@@ -5090,7 +5097,7 @@ Meeting page: https://viennavadata.org/meeting/2018-10-29.html
 - Item 19298: Approval of the Minutes: [topic: Minutes]
 - Item 19320: Approval of the Regular Council Meeting Minutes of August 20, 2018, October 15, 2018 and the Work Session Minutes of September 24, 2018. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 19299: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19299: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19301: Reports/Presentations [topic: Procedural]
 - Item 19319: Proclamation for “Bells of Peace” [topic: Proclamations & Recognitions]
@@ -5132,7 +5139,7 @@ Meeting page: https://viennavadata.org/meeting/2018-10-15.html
 - Item 19215: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 19216: Roll Call [topic: Procedural]
 - Item 19217: Approval of the Minutes: No minutes for approval [topic: Minutes]
-- Item 19218: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19218: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19220: Reports/Presentations [topic: Procedural]
 - Item 19239: Presentation by VDOT On The I-66 Expansion Project [topic: Proclamations & Recognitions]
@@ -5173,7 +5180,7 @@ Meeting page: https://viennavadata.org/meeting/2018-09-17.html
 - Item 19014: Approval of the Minutes: [topic: Minutes]
 - Item 19046: Approval of the Regular Council Meeting Minutes of August 20, 2018, the Work Session Minutes of August 20, 2018 and the Work Session Minutes of September 4, 2018. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 19015: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 19015: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 19017: Reports/Presentations [topic: Procedural]
 - Item 19043: JMHS Sports Recognition Presentation [topic: Proclamations & Recognitions]
@@ -5231,7 +5238,7 @@ Meeting page: https://viennavadata.org/meeting/2018-08-20.html
 - Item 18889: Roll Call [topic: Procedural]
 - Item 18890: Approval of the Minutes: [topic: Minutes]
 - Item 18917: Approval of the Regular Council Meeting Minutes of June 11, 2018, July 9, 2018 and the Work Session Minutes of May 29, 2018 and June 11, 2018. [topic: Minutes]
-- Item 18891: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 18891: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18893: Reports/Presentations [topic: Procedural]
 - Item 18915: Proclamation for Constitution Week [topic: Proclamations & Recognitions]
@@ -5284,7 +5291,7 @@ Meeting page: https://viennavadata.org/meeting/2018-07-09.html
 - Item 18682: Approval of the Minutes: [topic: Minutes]
 - Item 18701: Approval of the Regular Council Meetings of May 7, 2018, May 21, 2018, June 4, 2018, the Work Session of May 14, 2018 and the joint Town Council and Planning Commission Work session of May 23, 2018. [topic: Minutes]
   Result: 6 Aye, 1 Absent. Roll call: Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Tara Bloch: Aye; Laurie DiRocco: Aye; Pasha Majdi: Aye; Linda Colbert: Aye; Douglas Noble: Absent.
-- Item 18683: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 18683: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18685: Reports/Presentations [topic: Procedural]
 - Item 18694: Recognition of Donald Chumley for His Years of Service [topic: Proclamations & Recognitions]
@@ -5341,7 +5348,7 @@ Meeting page: https://viennavadata.org/meeting/2018-06-04.html
 - Item 18534: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 18535: Roll Call [topic: Procedural]
 - Item 18536: Approval of the Minutes: No minutes for approval [topic: Minutes]
-- Item 18537: Receipt of petitions and communications from the Public that are not on the Agenda.  
+- Item 18537: Receipt of petitions and communications from the Public that are not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18539: Reports/Presentations [topic: Procedural]
 - Item 18540: Report and Inquiries of Council Members [topic: Procedural]
@@ -5386,7 +5393,7 @@ Meeting page: https://viennavadata.org/meeting/2018-05-21.html
 - Item 18427: Roll Call [topic: Procedural]
 - Item 18428: Approval of the Minutes: [topic: Minutes]
 - Item 18449: Approval of the Regular Council Meeting Minutes of April 23, 2018 and the Work Session Minutes of April 16, 2018. [topic: Minutes]
-- Item 18429: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 18429: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18431: Reports/Presentations [topic: Procedural]
 - Item 18440: Proclamation for Men’s Health Month [topic: Proclamations & Recognitions]
@@ -5430,7 +5437,7 @@ Meeting page: https://viennavadata.org/meeting/2018-05-07.html
 - Item 18253: Roll Call [topic: Procedural]
 - Item 18254: Approval of the Minutes: [topic: Minutes]
 - Item 18271: Approval of the Regular Council Meeting Minutes of April 9, 2018, the Council Meeting for Closed Session only on March 19, 2018 and the Work Session Minutes of March 17, 2018 and March 19, 2018. [topic: Procedural]
-- Item 18255: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 18255: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18257: Reports/Presentations [topic: Procedural]
 - Item 18258: Report and Inquiries of Council Members [topic: Procedural]
@@ -5463,7 +5470,7 @@ Meeting page: https://viennavadata.org/meeting/2018-04-23.html
 - Item 18168: Roll Call [topic: Procedural]
 - Item 18169: Approval of the Minutes: [topic: Minutes]
 - Item 18186: Approval of the Minutes of the Special Council Meeting for the Bond Sale of February 13, 2018, the Regular Meeting and Work Session of March 5, 2018. [topic: Minutes]
-- Item 18170: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 18170: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18172: Reports/Presentations [topic: Procedural]
 - Item 18181: Proclamation for National Small Business Week [topic: Proclamations & Recognitions]
@@ -5511,7 +5518,7 @@ Meeting page: https://viennavadata.org/meeting/2018-04-09.html
 - Item 18006: Approval of the Minutes: [topic: Minutes]
 - Item 18033: Request Approval of the Minutes of the February 26, 2018 and March 12, 2018 Regular Council Meeting and the Work Session Minutes of February 12, 2018 [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 18007: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 18007: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 18009: Reports/Presentations [topic: Procedural]
 - Item 18018: Arbor Day 2018 Proclamation [topic: Proclamations & Recognitions]
@@ -5572,7 +5579,7 @@ Meeting page: https://viennavadata.org/meeting/2018-03-12.html
 - Item 17807: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
 - Item 17808: Roll Call [topic: Procedural]
 - Item 17809: Approval of the Minutes: No minutes for approval [topic: Minutes]
-- Item 17810: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 17810: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 17812: Reports/Presentations [topic: Procedural]
 - Item 17824: Presentation by Fairfax County Sheriff Stacey Kincaid [topic: Proclamations & Recognitions]
@@ -5621,7 +5628,7 @@ Meeting page: https://viennavadata.org/meeting/2018-02-26.html
 - Item 17748: Roll Call [topic: Procedural]
 - Item 17749: Approval of the Minutes: [topic: Minutes]
 - Item 17769: Approval of the Minutes of the Regular Council Meeting of February 5, 2018, Special Council meeting for Closed session of January 22, 2018 and the Work Session Minutes of January 22, 2018. [topic: Procedural]
-- Item 17750: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 17750: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 17752: Reports/Presentations [topic: Procedural]
 - Item 17753: Report and Inquiries of Council Members [topic: Procedural]
@@ -5667,7 +5674,7 @@ Meeting page: https://viennavadata.org/meeting/2018-01-29.html
 - Item 17587: Approval of the Minutes: [topic: Minutes]
 - Item 17605: Approval of the Regular Council Meeting Minutes of January 8, 2018 and May 9, 2016. [topic: Minutes]
   Result: 2 Absent, 5 Aye. Roll call: Tara Bloch: Absent; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Absent; Laurie DiRocco: Aye.
-- Item 17588: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 17588: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 17590: Reports/Presentations [topic: Procedural]
 - Item 17591: Report and Inquiries of Council Members [topic: Procedural]
@@ -5714,7 +5721,7 @@ Meeting page: https://viennavadata.org/meeting/2018-01-08.html
 - Item 17503: Approval of the Minutes: [topic: Minutes]
 - Item 17521: Approval of the Regular Council Meeting Minutes of December 11, 2017 and the Work Session Minutes of November 6, 2017. [topic: Minutes]
   Result: 7 Aye. Roll call: Tara Bloch: Aye; Linda Colbert: Aye; Pasha Majdi: Aye; Douglas Noble: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; Laurie DiRocco: Aye.
-- Item 17504: Receipt of petitions and communications from the Public that is not on the Agenda.  
+- Item 17504: Receipt of petitions and communications from the Public that is not on the Agenda.  
           (Limited to 5 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
 - Item 17506: Reports/Presentations [topic: Procedural]
 - Item 17515: Vienna Eco-Efficient Home Builder & Homeowner Awards [topic: Proclamations & Recognitions]
@@ -8621,7 +8628,7 @@ Meeting page: https://viennavadata.org/meeting/2014-02-24.html
   Result: 6 Aye, 1 Absent. Roll call: Laurie Genevro Cole: Aye; Laurie DiRocco: Aye; Edythe Frankel Kelleher: Aye; Michael J. Polychrones: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; M. Jane Seeman: Absent.
 - Item 12503: Request to accept easement at 385 Courthouse Road SW. [topic: Land Use, Zoning & Development]
   Result: 6 Aye, 1 Absent. Roll call: Laurie Genevro Cole: Aye; Laurie DiRocco: Aye; Edythe Frankel Kelleher: Aye; Michael J. Polychrones: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; M. Jane Seeman: Absent.
-- Item 12491: Request approval to renew IFB 12-05, July 4th Fireworks Display
+- Item 12491: Request approval to renew IFB 12-05, July 4th Fireworks Display
 Contract with Bay Fireworks for the 2014 fireworks display at Southside Park. [topic: Parks & Recreation]
   Result: 6 Aye, 1 Absent. Roll call: Laurie Genevro Cole: Aye; Laurie DiRocco: Aye; Edythe Frankel Kelleher: Aye; Michael J. Polychrones: Aye; Carey J. Sienicki: Aye; Howard J. Springsteen: Aye; M. Jane Seeman: Absent.
 - Item 12488: Request to accept easement at 385 Courthouse Road SW. [topic: Land Use, Zoning & Development]

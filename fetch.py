@@ -1,12 +1,16 @@
 """fetch.py — pull Town of Vienna, VA council data from the Legistar Web API.
 
 Writes raw, unmodified JSON responses to data/, one file per call.
-Skips any call whose cache file already exists. Never renders anything.
+Skips any call whose cache file already exists, except for meetings in the
+last REFRESH_DAYS: their items and votes are re-fetched every run, because
+the clerk enters roll calls after the meeting (once minutes are finalized)
+and a first fetch during the draft period would otherwise cache an empty
+vote list forever. Never renders anything.
 """
 import json
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -18,15 +22,17 @@ DATA = Path(__file__).parent / "data"
 SLEEP_SECONDS = 0.1
 # Vienna's Legistar history begins 2013-10-28; this captures all of it.
 START_DATE = "2013-01-01"
+REFRESH_DAYS = 180  # re-fetch items and votes for meetings this recent, every run
 
 session = requests.Session()
 session.headers["Accept"] = "application/json"
 
 
-def get_cached(cache_name: str, path: str, params: dict | None = None):
-    """GET BASE+path unless data/{cache_name} already exists. Store the raw body verbatim."""
+def get_cached(cache_name: str, path: str, params: dict | None = None, refresh: bool = False):
+    """GET BASE+path unless data/{cache_name} already exists (or refresh is
+    set). Store the raw body verbatim."""
     cache_file = DATA / cache_name
-    if cache_file.exists():
+    if cache_file.exists() and not refresh:
         print(f"cached  {cache_name}")
         return json.loads(cache_file.read_text(encoding="utf-8"))
     url = f"{BASE}{path}"
@@ -56,15 +62,19 @@ def main():
     )
     print(f"        {len(events)} events since {START_DATE}")
 
+    refresh_after = (datetime.now(timezone.utc) - timedelta(days=REFRESH_DAYS)).strftime("%Y-%m-%d")
     n_items = 0
     n_votes = 0
     for event in events:
         event_id = event["EventId"]
-        items = get_cached(f"eventitems_{event_id}.json", f"/events/{event_id}/eventitems")
+        recent = event["EventDate"][:10] >= refresh_after
+        items = get_cached(f"eventitems_{event_id}.json", f"/events/{event_id}/eventitems",
+                           refresh=recent)
         n_items += len(items)
         for item in items:
             item_id = item["EventItemId"]
-            votes = get_cached(f"votes_{item_id}.json", f"/eventitems/{item_id}/votes")
+            votes = get_cached(f"votes_{item_id}.json", f"/eventitems/{item_id}/votes",
+                               refresh=recent)
             n_votes += len(votes)
 
     (DATA / "fetch_meta.json").write_text(
