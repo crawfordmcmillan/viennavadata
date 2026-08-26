@@ -370,6 +370,8 @@ Code of Vienna Chapter 6, Section 6-4.2","Budget, Taxes & Finance"
 38319,2026-07-06,Approval of payment to Tyler Technologies for the standard software maintenance agreement (SSMA) for the Vienna Finance Department,"Budget, Taxes & Finance"
 38320,2026-07-06,Appropriate Spending for the Town Attorney for FY 2026-27,"Budget, Taxes & Finance"
 38326,2026-07-06,"Request to Set a Public Hearing for Sept. 14, 2026 Regarding Reducing the Town of Vienna Meals Tax Rate from 4% to 3%","Budget, Taxes & Finance"
+38496,2026-08-24,"Approval to Publish a List of Delinquent Real Estate Tax Payments as of Aug. 24, 2026","Budget, Taxes & Finance"
+38502,2026-08-24,GFOA Financial Report Award,"Budget, Taxes & Finance"
 12803,2014-04-07,Recommend approval of Memorandum of Understanding (MOU) between the Town of Vienna and the Vienna Business Association for the 2014 Vienna Oktoberfest.,"Community, Arts & Events"
 13408,2014-09-22,Request for Approval of an MOU between the Town Of Vienna and the Vienna Business Association for First Night 2014-15.,"Community, Arts & Events"
 13413,2014-09-22,Introduction of the Vienna Teen Council,"Community, Arts & Events"
@@ -506,6 +508,7 @@ Code of Vienna Chapter 6, Section 6-4.2","Budget, Taxes & Finance"
 37834,2026-04-27,Consent Agenda,Consent Agenda
 38123,2026-06-01,Consent Agenda,Consent Agenda
 38312,2026-07-06,Consent Agenda,Consent Agenda
+38489,2026-08-24,Consent Agenda,Consent Agenda
 12129,2013-10-28,Request to approve a contract for Maple Avenue West median improvements.,Contracts & Purchasing
 12134,2013-10-28,Request to replace Vehicle #44 through the Town’s Vehicle Replacement Program.,Contracts & Purchasing
 12143,2013-10-28,Request to award new Janitorial Services Contract to 2Clean Commercial Cleaning Services.,Contracts & Purchasing
@@ -1371,6 +1374,9 @@ Consideration of a request for a related modification of requirements.","Land Us
 38012,2026-05-18,Discussion and Direction on the Draft 2026 Comprehensive Plan,"Land Use, Zoning & Development"
 38315,2026-07-06,"Request to set a Public Hearing for Aug. 24, 2026, for AT&T Mobility’s request for Modification of Requirements at 527 Maple Ave., E","Land Use, Zoning & Development"
 38317,2026-07-06,"Recommend approval to add 217 Walnut Lane, NW, to the Town of Vienna Historic Property Register.","Land Use, Zoning & Development"
+38491,2026-08-24,"Request to set a Public Hearing for Sept. 28, 2026, for Green Hedges School’s request for Modification of Requirements","Land Use, Zoning & Development"
+38493,2026-08-24,Consideration of a Modification of Requirements for height of Rooftop Architectural Screening at 527 Maple Ave. E - AT&T Wireless Telecommunications Facility,"Land Use, Zoning & Development"
+38530,2026-08-24,Consideration of a Modification of Requirements for height of Rooftop Architectural Screening at 527 Maple Ave. E - AT&T Wireless Telecommunications Facility,"Land Use, Zoning & Development"
 12117,2013-10-28,Approval of the Minutes:,Minutes
 12137,2013-10-28,"Approval of the minutes of the Work Session meetings of September 30 and October 21, 2013 and to defer approval of the minutes of the Regular Council Meeting of October 7, 2013 to November 4, 2013.",Minutes
 12155,2013-11-04,Approval of the Minutes:,Minutes
@@ -1796,6 +1802,8 @@ Consideration of a request for a related modification of requirements.","Land Us
 38132,2026-06-01,Approval of the Draft May 11th Town Council Work Session Minutes,Minutes
 38302,2026-07-06,Acceptance of the Minutes:,Minutes
 38327,2026-07-06,Approval of the Draft Town Council Meeting Minutes from May 11th and June 1st and the Draft Town Council Work Session Minutes from June 1st.,Minutes
+38479,2026-08-24,Acceptance of the Minutes:,Minutes
+38499,2026-08-24,"Approval of the Draft May 18th, June 1st, and July 6th Town Council Meeting Minutes and the Draft June 1st , June 8th, and July 6th Work Session Minutes.",Minutes
 12130,2013-10-28,Request to ride Baltimore County Bid No. B-349 Tennis/Basketball Court Renovations for the repair and resurfacing of Glyndon Park tennis courts and basketball court.,Parks & Recreation
 12445,2014-02-03,Request to approve NVRPA trail connection permission letters.,Parks & Recreation
 12450,2014-02-03,Request to approve Memorandum of Understanding between the Town Of Vienna and the Rotary Club of Vienna for the construction of the Town Green stage roof.,Parks & Recreation
@@ -5303,6 +5311,21 @@ THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISAB
 38313,2026-07-06,Regular Business,Procedural
 38328,2026-07-06,Meeting Adjournment,Procedural
 38329,2026-07-06,"THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED.",Procedural
+38476,2026-08-24,"Invocation: Ray Brill, Former Council Member",Procedural
+38477,2026-08-24,Pledge of Allegiance to the Flag of the United States of America,Procedural
+38478,2026-08-24,Roll Call,Procedural
+38480,2026-08-24,"Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening)",Procedural
+38482,2026-08-24,Reports/Presentations,Procedural
+38483,2026-08-24,Report and Inquiries of Council Members,Procedural
+38484,2026-08-24,Report of the Town Manager,Procedural
+38485,2026-08-24,Report of the Mayor,Procedural
+38486,2026-08-24,Proposals for Additional Items to the Agenda,Procedural
+38487,2026-08-24,Closed Session Report,Procedural
+38488,2026-08-24,Public Hearings,Procedural
+38490,2026-08-24,Regular Business,Procedural
+38497,2026-08-24,Meeting Adjournment,Procedural
+38498,2026-08-24,"THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED.",Procedural
 12166,2013-11-04,2013 Halloween Parade Awards,Proclamations & Recognitions
 12215,2013-11-18,Community Enhancement Commission Fall Awards,Proclamations & Recognitions
 12447,2014-02-03,Community Enhancement Commission Holiday Awards,Proclamations & Recognitions
@@ -5511,6 +5534,8 @@ THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISAB
 37840,2026-04-27,Proclamations,Proclamations & Recognitions
 37894,2026-05-04,2026 Small Business and Economic Development week Proclamation,Proclamations & Recognitions
 38330,2026-07-06,"Principal Liz Calvert, Retirement Recognition",Proclamations & Recognitions
+38500,2026-08-24,Board and Commission Appreciation,Proclamations & Recognitions
+38501,2026-08-24,Madison High School State Championship Recognition,Proclamations & Recognitions
 12376,2014-01-06,Memorandum of Understanding for Asset Forfeiture Transfer Program,Public Safety
 13156,2014-06-02,The Police Department requests approval from the Town Council to ride the City of Alexandria Contract # RFP 00000057 for the purchase of maintenance and service for the Department’s 800 MHz radio equipment from Wireless Communications Inc.,Public Safety
 13157,2014-06-02,Request approval to ride Commonwealth of Virginia contract # E194-1176 for the purchase of police uniforms and accessories.,Public Safety
@@ -5844,6 +5869,7 @@ THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISAB
 37836,2026-04-27,"Request Authorization for Additional Contract Expenditure for the Nutley Street Culvert Construction Contract, IFB 25-02, with FLB Contractors, Inc. (5 mins)","Streets, Sidewalks & Transportation"
 37837,2026-04-27,"Request approval of Transportation Safety Commission (TSC) motion for implementing recommendations at the intersections of Desale Street, SW, and Yeonas Drive, SE, Desale Street, SW, and James Drive, SE, Ross Drive and Desale Street, SW, and Yeonas Circle and Yeonas Drive, SE. (10 mins.)","Streets, Sidewalks & Transportation"
 38318,2026-07-06,"Intent to adopt a proposed ordinance to amend the Code of the Town of Vienna, Chapter 9, Motor Vehicles and Traffic, Article 1, In General, Section 9-3, Adoption of State Code.","Streets, Sidewalks & Transportation"
+38494,2026-08-24,"Request to award Purchase Order for Design Services for the Lawyers Road and Church Street, NW, Intersection Reconfiguration Project","Streets, Sidewalks & Transportation"
 12637,2014-03-17,Public Hearing to consider a request to renew Qwest Communications/dba Centurylink communications facilities franchise agreement ordinance.,Town Code & Ordinances
 13236,2014-06-16,Request to set Public Hearing for changes to the Chapter 11 of the Town Code regarding Personnel matters.,Town Code & Ordinances
 13444,2014-10-20,Request approval to renew XO Communications facilities franchise agreement ordinance.,Town Code & Ordinances
@@ -5929,6 +5955,7 @@ THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISAB
 33943,2024-09-23,Request to award a contract for the renovation of the vehicle wash facility at Northside Property Yard,Town Facilities & Property
 34226,2024-10-28,"Approval request for spending $106,073 with Fairfield Enterprises, LLC, for building improvements to the Nutley Property Yard",Town Facilities & Property
 38316,2026-07-06,"Change Order to Add Design of the 2nd Floor and Basement to RFP 24-19, 1st Floor Town Hall Renovation - Architectural Drawings for Construction",Town Facilities & Property
+38495,2026-08-24,"Request to award Invitation for Bid (IFB) 26-14 to Capital Global Explorer, Inc., for Town Hall Bathroom Improvements.",Town Facilities & Property
 12135,2013-10-28,Request to endorse cooperative agreement with Fairfax County to share stormwater service district fees.,"Water, Sewer & Stormwater"
 12219,2013-11-18,Request to award a sewer lining contract to AM-Liner.,"Water, Sewer & Stormwater"
 12423,2014-01-27,"Request to award Meadow Lane SW and Gibson Drive SW drainage improvement contract to American Contractors, Inc.","Water, Sewer & Stormwater"
@@ -6075,3 +6102,4 @@ continued water main improvements within the Town’s water service area using P
 37711,2026-04-06,Public Hearing for Fiscal Year 2026-27 Water and Sewer Rates (5 mins.),"Water, Sewer & Stormwater"
 37985,2026-05-18,Intent to Adopt Water and Sewer Rates FY 2026-27 (5 min. Staff Presentation),"Water, Sewer & Stormwater"
 38321,2026-07-06,"Request to Award Invitation for Bid (IFB) 26-11 to Sagres Construction Corporation (Primary) and Crown Construction Service, Inc (Secondary) for Provision and Installation of Water Mains","Water, Sewer & Stormwater"
+38492,2026-08-24,Request approval to purchase equipment funded by the water and sewer fund as outlined in the FY26 Vehicle Replacement Plan (VRP),"Water, Sewer & Stormwater"

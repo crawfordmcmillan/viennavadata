@@ -1,9 +1,40 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-08-18. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-08-26. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
+
+## Town Council Meeting, 2026-08-24
+Meeting page: https://viennavadata.org/meeting/2026-08-24.html
+- Item 38476: Invocation: Ray Brill, Former Council Member [topic: Procedural]
+- Item 38477: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
+- Item 38478: Roll Call [topic: Procedural]
+- Item 38479: Acceptance of the Minutes: [topic: Minutes]
+- Item 38499: Approval of the Draft May 18th, June 1st, and July 6th Town Council Meeting Minutes and the Draft June 1st , June 8th, and July 6th Work Session Minutes. [topic: Minutes]
+- Item 38480: Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
+- Item 38482: Reports/Presentations [topic: Procedural]
+- Item 38483: Report and Inquiries of Council Members [topic: Procedural]
+- Item 38484: Report of the Town Manager [topic: Procedural]
+- Item 38485: Report of the Mayor [topic: Procedural]
+- Item 38486: Proposals for Additional Items to the Agenda [topic: Procedural]
+- Item 38500: Board and Commission Appreciation [topic: Proclamations & Recognitions]
+- Item 38501: Madison High School State Championship Recognition [topic: Proclamations & Recognitions]
+- Item 38502: GFOA Financial Report Award [topic: Budget, Taxes & Finance]
+- Item 38487: Closed Session Report [topic: Procedural]
+- Item 38488: Public Hearings [topic: Procedural]
+- Item 38493: Consideration of a Modification of Requirements for height of Rooftop Architectural Screening at 527 Maple Ave. E - AT&T Wireless Telecommunications Facility [topic: Land Use, Zoning & Development]
+- Item 38530: Consideration of a Modification of Requirements for height of Rooftop Architectural Screening at 527 Maple Ave. E - AT&T Wireless Telecommunications Facility [topic: Land Use, Zoning & Development]
+- Item 38489: Consent Agenda [topic: Consent Agenda]
+- Item 38491: Request to set a Public Hearing for Sept. 28, 2026, for Green Hedges School’s request for Modification of Requirements [topic: Land Use, Zoning & Development]
+- Item 38492: Request approval to purchase equipment funded by the water and sewer fund as outlined in the FY26 Vehicle Replacement Plan (VRP) [topic: Water, Sewer & Stormwater]
+- Item 38495: Request to award Invitation for Bid (IFB) 26-14 to Capital Global Explorer, Inc., for Town Hall Bathroom Improvements. [topic: Town Facilities & Property]
+- Item 38496: Approval to Publish a List of Delinquent Real Estate Tax Payments as of Aug. 24, 2026 [topic: Budget, Taxes & Finance]
+- Item 38490: Regular Business [topic: Procedural]
+- Item 38494: Request to award Purchase Order for Design Services for the Lawyers Road and Church Street, NW, Intersection Reconfiguration Project [topic: Streets, Sidewalks & Transportation]
+- Item 38497: Meeting Adjournment [topic: Procedural]
+- Item 38498: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2026-07-06
 Meeting page: https://viennavadata.org/meeting/2026-07-06.html
