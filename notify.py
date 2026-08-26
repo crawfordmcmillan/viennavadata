@@ -15,7 +15,9 @@ import os
 import smtplib
 import ssl
 import sys
-from datetime import date
+import glob
+import re
+from datetime import date, datetime, timedelta, timezone
 from email.message import EmailMessage
 from pathlib import Path
 
@@ -37,10 +39,59 @@ def source_line(name, meta_file):
     return f"  {name}: {'refreshed today' if fresh else 'kept from ' + fetched}"
 
 
+def epoch_date(ms):
+    return (datetime(1970, 1, 1, tzinfo=timezone.utc) + timedelta(milliseconds=ms)).date().isoformat()
+
+
+def max_attr_date(pattern, field):
+    """Latest epoch-ms date in an ArcGIS-style feature cache."""
+    best = None
+    for f in glob.glob(str(ROOT / pattern)):
+        for feat in json.loads(Path(f).read_text(encoding="utf-8")).get("features", []):
+            v = feat["attributes"].get(field)
+            if v and (best is None or v > best):
+                best = v
+    return epoch_date(best) if best else "?"
+
+
+def section_dates():
+    """Latest record date per section of the site, from the cached data."""
+    events = sorted(json.loads(read("data/events.json") or "[]"),
+                    key=lambda e: e["EventDate"], reverse=True)
+    newest_meeting = events[0]["EventDate"][:10] if events else "?"
+    latest_roll_call = "?"
+    for e in events:  # newest meeting that has at least one recorded vote
+        items_file = ROOT / "data" / f"eventitems_{e['EventId']}.json"
+        if not items_file.exists():
+            continue
+        for it in json.loads(items_file.read_text(encoding="utf-8")):
+            vf = ROOT / "data" / f"votes_{it['EventItemId']}.json"
+            if vf.exists() and json.loads(vf.read_text(encoding="utf-8")):
+                latest_roll_call = e["EventDate"][:10]
+                break
+        if latest_roll_call != "?":
+            break
+
+    board_dates = [e["EventDate"][:10]
+                   for f in glob.glob(str(ROOT / "data" / "boards" / "events_*.json"))
+                   for e in json.loads(Path(f).read_text(encoding="utf-8"))]
+    elections = json.loads(read("data/elections/elections_meta.json") or "{}").get("contests", [])
+    pop_years = [int(m.group(1)) for f in glob.glob(str(ROOT / "data" / "population" / "*.json"))
+                 if (m := re.search(r"_(\d{4})\.json$", f))]
+
+    return [
+        ("Council votes", f"newest meeting {newest_meeting}, latest recorded roll call {latest_roll_call}"),
+        ("Planning & zoning", f"newest board meeting {max(board_dates) if board_dates else '?'}"),
+        ("Elections", f"latest contest {max((c['date'] for c in elections), default='?')}"),
+        ("House prices", f"latest recorded sale {max_attr_date('data/houses/sales_*.json', 'SALEDT')}"),
+        ("Property timelines", f"latest recorded sale {max_attr_date('data/properties/history_*.json', 'SALEDT')}"),
+        ("Crashes", f"latest crash {max_attr_date('data/crashes/crashes_*.json', 'CRASH_DT')}"),
+        ("Population", f"latest census data year {max(pop_years) if pop_years else '?'}"),
+    ]
+
+
 def build_summary():
     dateline = json.loads(read("data/fetch_meta.json") or "{}").get("fetched_at_utc", "")[:10]
-    events = json.loads(read("data/events.json") or "[]")
-    newest = max((e.get("EventDate", "")[:10] for e in events), default="?")
     build_line = read("build_summary.txt").replace("built site/: ", "")
     warnings = read("refresh_warnings.txt")
     uncategorized = read("uncategorized_titles.txt")
@@ -51,8 +102,10 @@ def build_summary():
     lines = [
         f"The weekly refresh ran and the site is live at {SITE_URL}.",
         "",
-        f"Data as of {dateline}. Newest council meeting in the record: {newest}.",
-        f"Built: {build_line}" if build_line else "",
+        f"Data as of {dateline}." + (f" Built: {build_line}" if build_line else ""),
+        "",
+        "Latest data by section:",
+        *[f"  {name}: {detail}" for name, detail in section_dates()],
         "",
         "County and state sources:",
         source_line("houses", "houses_meta.json"),
