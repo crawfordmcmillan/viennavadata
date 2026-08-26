@@ -20,19 +20,24 @@ SALES_URL = ("https://services1.arcgis.com/ioennV6PpG5Xodq0/ArcGIS/rest/"
              "services/OpenData_A5/FeatureServer/1/query")
 SLEEP_SECONDS = 0.15
 CHUNK = 50
-RETRIES = 3
+RETRIES = 4
 
 
 def get_retry(session, url, **kwargs):
     """Public GIS servers stall occasionally; retry before giving up."""
     for attempt in range(RETRIES):
         try:
-            return session.get(url, **kwargs)
+            resp = session.get(url, **kwargs)
+            # A 5xx (e.g. 504 Gateway Timeout) is just as transient as a
+            # dropped connection; retry it instead of failing on it.
+            if resp.status_code < 500 or attempt == RETRIES - 1:
+                return resp
+            print(f"retry   attempt {attempt + 2} after HTTP {resp.status_code}")
         except requests.RequestException:
             if attempt == RETRIES - 1:
                 raise
             print(f"retry   attempt {attempt + 2} after a failed request")
-            time.sleep(15)
+        time.sleep(20)
 
 
 def main():

@@ -29,13 +29,18 @@ jobs:
       - name: Refetch meeting list and any new records
         run: |
           rm -f data/events.json data/boards/events_*.json
-          rm -rf data/houses data/crashes data/properties
           python fetch.py
           python fetch_boards.py
           python fetch_elections.py
-          python fetch_houses.py
-          python fetch_crashes.py
-          python fetch_properties.py
+      - name: Refresh county and state GIS sources (keep last week's data if one is down)
+        run: |
+          for src in houses crashes properties; do
+            rm -rf "data/$src"
+            if ! python "fetch_$src.py"; then
+              echo "::warning::fetch_$src.py failed; keeping last week's data/$src"
+              git checkout -- "data/$src"
+            fi
+          done
       - name: Regenerate categories and site
         run: |
           python categorize.py
