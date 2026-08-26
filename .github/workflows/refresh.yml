@@ -38,13 +38,14 @@ jobs:
             rm -rf "data/$src"
             if ! python "fetch_$src.py"; then
               echo "::warning::fetch_$src.py failed; keeping last week's data/$src"
+              echo "fetch_$src.py failed after retries; kept last week's data/$src" >> refresh_warnings.txt
               git checkout -- "data/$src"
             fi
           done
       - name: Regenerate categories and site
         run: |
           python categorize.py
-          python build.py
+          python build.py | tee build_summary.txt
       - name: Commit any data changes
         run: |
           git config user.name "github-actions[bot]"
@@ -63,3 +64,10 @@ jobs:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Email a summary of the refresh
+        if: success()
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python notify.py

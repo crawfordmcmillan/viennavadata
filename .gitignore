@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .playwright-mcp/
 /photos/
+build_summary.txt
+refresh_warnings.txt
