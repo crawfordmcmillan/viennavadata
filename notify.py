@@ -127,12 +127,10 @@ def main():
     # Always show the summary on the run page (GitHub's own notifications link there).
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if step_summary:
-        Path(step_summary).open("a", encoding="utf-8").write(f"## {subject}
+        nl = chr(10)
+        with Path(step_summary).open("a", encoding="utf-8") as fh:
+            fh.write("## " + subject + nl + nl + "```" + nl + body + nl + "```" + nl)
 
-```
-{body}
-```
-")
     user, password, to = (os.environ.get(k) for k in ("MAIL_USERNAME", "MAIL_PASSWORD", "MAIL_TO"))
     if not (user and password and to):
         print("notify  mail secrets not set; printing summary instead\n")
