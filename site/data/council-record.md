@@ -1,6 +1,6 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-01. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-08. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
@@ -26,6 +26,7 @@ Meeting page: https://viennavadata.org/meeting/2026-08-24.html
 - Item 38488: Public Hearings [topic: Procedural]
 - Item 38493: Consideration of a Modification of Requirements for height of Rooftop Architectural Screening at 527 Maple Ave. E - AT&T Wireless Telecommunications Facility [topic: Land Use, Zoning & Development]
 - Item 38530: Consideration of a Modification of Requirements for height of Rooftop Architectural Screening at 527 Maple Ave. E - AT&T Wireless Telecommunications Facility [topic: Land Use, Zoning & Development]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38489: Consent Agenda [topic: Consent Agenda]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38491: Request to set a Public Hearing for Sept. 28, 2026, for Green Hedges School’s request for Modification of Requirements [topic: Land Use, Zoning & Development]
