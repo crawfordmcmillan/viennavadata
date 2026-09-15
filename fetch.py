@@ -28,6 +28,24 @@ session = requests.Session()
 session.headers["Accept"] = "application/json"
 
 
+RETRIES = 4
+
+
+def get_retry(session, url, **kwargs):
+    """Public servers drop connections and return transient 5xx errors;
+    retry before giving up."""
+    for attempt in range(RETRIES):
+        try:
+            resp = session.get(url, **kwargs)
+            if resp.status_code < 500 or attempt == RETRIES - 1:
+                return resp
+            print(f"retry   attempt {attempt + 2} after HTTP {resp.status_code}")
+        except requests.RequestException:
+            if attempt == RETRIES - 1:
+                raise
+            print(f"retry   attempt {attempt + 2} after a failed request")
+        time.sleep(20)
+
 def get_cached(cache_name: str, path: str, params: dict | None = None, refresh: bool = False):
     """GET BASE+path unless data/{cache_name} already exists (or refresh is
     set). Store the raw body verbatim."""
@@ -37,7 +55,7 @@ def get_cached(cache_name: str, path: str, params: dict | None = None, refresh: 
         return json.loads(cache_file.read_text(encoding="utf-8"))
     url = f"{BASE}{path}"
     print(f"GET     {url}" + (f"  {params}" if params else ""))
-    resp = session.get(url, params=params, timeout=30)
+    resp = get_retry(session, url, params=params, timeout=30)
     resp.raise_for_status()
     cache_file.write_text(resp.text, encoding="utf-8")
     time.sleep(SLEEP_SECONDS)

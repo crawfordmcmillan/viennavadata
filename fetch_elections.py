@@ -68,6 +68,24 @@ CONTESTS = [
 ]
 
 
+RETRIES = 4
+
+
+def get_retry(session, url, **kwargs):
+    """Public servers drop connections and return transient 5xx errors;
+    retry before giving up."""
+    for attempt in range(RETRIES):
+        try:
+            resp = session.get(url, **kwargs)
+            if resp.status_code < 500 or attempt == RETRIES - 1:
+                return resp
+            print(f"retry   attempt {attempt + 2} after HTTP {resp.status_code}")
+        except requests.RequestException:
+            if attempt == RETRIES - 1:
+                raise
+            print(f"retry   attempt {attempt + 2} after a failed request")
+        time.sleep(20)
+
 def main():
     DATA.mkdir(parents=True, exist_ok=True)
     session = requests.Session()
@@ -79,7 +97,7 @@ def main():
             continue
         url = f"{BASE}/{cid}_table.csv?split_party=false"
         print(f"GET     {url}")
-        resp = session.get(url, timeout=60)
+        resp = get_retry(session, url, timeout=60)
         resp.raise_for_status()
         out.write_bytes(resp.content)
         time.sleep(SLEEP_SECONDS)
