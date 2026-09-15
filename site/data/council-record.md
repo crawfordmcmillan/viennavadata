@@ -1,9 +1,32 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-08. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-15. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
+
+## Town Council Meeting, 2026-09-14
+Meeting page: https://viennavadata.org/meeting/2026-09-14.html
+- Item 38579: Invocation: Rev. Adrian Rodriquez, Vienna Presbyterian Church [topic: Procedural]
+- Item 38580: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
+- Item 38581: Roll Call [topic: Procedural]
+- Item 38582: Acceptance of the Minutes: [topic: Minutes]
+- Item 38641: Approval of the August 24th Draft Town Council Meeting and Work Session Minutes [topic: Minutes]
+- Item 38583: Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
+- Item 38585: Reports/Presentations [topic: Procedural]
+- Item 38586: Report and Inquiries of Council Members [topic: Procedural]
+- Item 38587: Report of the Town Manager [topic: Procedural]
+- Item 38588: Report of the Mayor [topic: Procedural]
+- Item 38680: Report of the Mayor [topic: Procedural]
+- Item 38596: Board and Commission Appreciation [topic: Proclamations & Recognitions]
+- Item 38597: Constitution Week Proclamation [topic: Proclamations & Recognitions]
+- Item 38598: GFOA Certificate of Achievement for Excellence in Financial Reporting [topic: Budget, Taxes & Finance]
+- Item 38589: Proposals for Additional Items to the Agenda [topic: Procedural]
+- Item 38590: Closed Session Report [topic: Procedural]
+- Item 38595: Meeting Adjournment
+
+THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2026-08-24
 Meeting page: https://viennavadata.org/meeting/2026-08-24.html
@@ -66,7 +89,7 @@ Meeting page: https://viennavadata.org/meeting/2026-07-06.html
 - Item 38325: Amend Council’s June 1, 2026, motion to reschedule the Tree Advocacy Committee - Green Streets Policy work session from July 6, 2026, to Aug.  24, 2026 [topic: Environment, Trees & Sustainability]
 - Item 38313: Regular Business [topic: Procedural]
 - Item 38326: Request to Set a Public Hearing for Sept. 14, 2026 Regarding Reducing the Town of Vienna Meals Tax Rate from 4% to 3% [topic: Budget, Taxes & Finance]
-  Result: 1 Nay, 6 Aye. Roll call: Chuck Anderson: Nay; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
+  Result: 6 Aye, 1 Nay. Roll call: Chuck Anderson: Aye; Roy Baldwin: Nay; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38314: Request to adopt 2027 Town Council meeting schedule for inclusion in the 2027 Town of Vienna Calendar. [topic: Governance & Administration]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38315: Request to set a Public Hearing for Aug. 24, 2026, for AT&T Mobility’s request for Modification of Requirements at 527 Maple Ave., E [topic: Land Use, Zoning & Development]
