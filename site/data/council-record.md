@@ -1,9 +1,31 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-22. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-29. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
+
+## Town Council Meeting, 2026-09-28
+Meeting page: https://viennavadata.org/meeting/2026-09-28.html
+- Item 38719: Invocation: Baha'is of the Town of Vienna [topic: Procedural]
+- Item 38720: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
+- Item 38721: Roll Call [topic: Procedural]
+- Item 38722: Acceptance of the Minutes: [topic: Minutes]
+- Item 38723: Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
+- Item 38725: Reports/Presentations [topic: Procedural]
+- Item 38726: Report and Inquiries of Council Members [topic: Procedural]
+- Item 38727: Report of the Town Manager [topic: Procedural]
+- Item 38728: Report of the Mayor [topic: Procedural]
+- Item 38729: Proposals for Additional Items to the Agenda [topic: Procedural]
+- Item 38730: Closed Session Report [topic: Procedural]
+- Item 38731: Public Hearings [topic: Procedural]
+- Item 38734: Public Hearing for a Request for Modifications of Requirements Related to Lot Coverage, Frontage Improvements, Parking and Loading Standards, Landscaping, Buffering, and Bicycle Parking for Green Hedges School, Located at 415 Windover Ave NW. [topic: Land Use, Zoning & Development]
+- Item 38733: Regular Business [topic: Procedural]
+- Item 38736: Proposed Capital Improvement Plan (CIP) 2028-2042 [topic: Budget, Taxes & Finance]
+- Item 38735: Spending of ARPA Interest Funds: Vienna250 [topic: Budget, Taxes & Finance]
+- Item 38737: Meeting Adjournment [topic: Procedural]
+- Item 38738: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2026-09-14
 Meeting page: https://viennavadata.org/meeting/2026-09-14.html
@@ -24,6 +46,7 @@ Meeting page: https://viennavadata.org/meeting/2026-09-14.html
 - Item 38598: GFOA Certificate of Achievement for Excellence in Financial Reporting [topic: Budget, Taxes & Finance]
 - Item 38589: Proposals for Additional Items to the Agenda [topic: Procedural]
 - Item 38590: Closed Session Report [topic: Procedural]
+  Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38595: Meeting Adjournment
 
 THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
