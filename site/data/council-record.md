@@ -1,9 +1,41 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-09-29. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-10-06. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
+
+## Town Council Meeting, 2026-10-05
+Meeting page: https://viennavadata.org/meeting/2026-10-05.html
+- Item 38739: Invocation: Daniel Dixon, Redeemer Fellowship VA [topic: Procedural]
+- Item 38740: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
+- Item 38741: Roll Call [topic: Procedural]
+- Item 38742: Acceptance of the Minutes: [topic: Minutes]
+- Item 38761: Approval of the September 14th Draft Town Council Meeting and Work Session Minutes [topic: Minutes]
+- Item 38743: Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
+- Item 38745: Reports/Presentations [topic: Procedural]
+- Item 38746: Report and Inquiries of Council Members [topic: Procedural]
+- Item 38747: Report of the Town Manager [topic: Procedural]
+- Item 38748: Report of the Mayor [topic: Procedural]
+- Item 38744: International Repair Cafe Proclamation [topic: Proclamations & Recognitions]
+- Item 38765: Check Presentation of Ornament Sales to Historic Vienna Inc. [topic: Community, Arts & Events]
+- Item 38766: Unveiling of First Mayor Portrait
+- Item 38749: Proposals for Additional Items to the Agenda [topic: Procedural]
+- Item 38750: Closed Session Report [topic: Procedural]
+- Item 38752: Consent Agenda [topic: Consent Agenda]
+- Item 38759: Request to Set a Public Hearing for the Proposed 2027 Legislative Agenda [topic: Grants & Intergovernmental]
+- Item 38758: Request to set a Public Hearing for November 9, 2026, for request for Modification of Requirements related to parking at Maple Avenue Shopping Center, located at 419 - 427 Maple Ave., E [topic: Land Use, Zoning & Development]
+- Item 38805: Request to set a public hearing for October 26, 2026, for the appeal of decision by the Board of Architectural Review related to outdoor lighting at 226 Maple Avenue W. [topic: Land Use, Zoning & Development]
+- Item 38753: Regular Business [topic: Procedural]
+- Item 38760: Action on a Request for Modifications of Requirements for Green Hedges School, located at 415 Windover Ave NW [topic: Land Use, Zoning & Development]
+- Item 38756: Request approval of the Transportation Safety Commission (TSC) motion for implementing an all-way stop configuration at the intersection of Cottage Street and Plum Street, SW. [topic: Streets, Sidewalks & Transportation]
+- Item 38754: Request to award Purchase Orders for Construction and Construction CEI/Management Services for the Kingsley Road, SW, Sidewalk Project. [topic: Streets, Sidewalks & Transportation]
+- Item 38755: Request to Award Purchase Order for Design Services for the Ayr Hill Avenue Sidewalk Improvements Project [topic: Streets, Sidewalks & Transportation]
+- Item 38757: Request to award Purchase Order for Design/Study Services for a Signal Justification Report for the Maple Avenue and James Madison Drive intersection. [topic: Streets, Sidewalks & Transportation]
+- Item 38764: Second Closed Session [topic: Procedural]
+- Item 38762: Meeting Adjournment [topic: Procedural]
+- Item 38763: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2026-09-28
 Meeting page: https://viennavadata.org/meeting/2026-09-28.html
@@ -19,11 +51,14 @@ Meeting page: https://viennavadata.org/meeting/2026-09-28.html
 - Item 38728: Report of the Mayor [topic: Procedural]
 - Item 38729: Proposals for Additional Items to the Agenda [topic: Procedural]
 - Item 38730: Closed Session Report [topic: Procedural]
+  Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Absent; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38731: Public Hearings [topic: Procedural]
 - Item 38734: Public Hearing for a Request for Modifications of Requirements Related to Lot Coverage, Frontage Improvements, Parking and Loading Standards, Landscaping, Buffering, and Bicycle Parking for Green Hedges School, Located at 415 Windover Ave NW. [topic: Land Use, Zoning & Development]
 - Item 38733: Regular Business [topic: Procedural]
 - Item 38736: Proposed Capital Improvement Plan (CIP) 2028-2042 [topic: Budget, Taxes & Finance]
+  Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Absent; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38735: Spending of ARPA Interest Funds: Vienna250 [topic: Budget, Taxes & Finance]
+  Result: 6 Aye, 1 Absent. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Absent; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38737: Meeting Adjournment [topic: Procedural]
 - Item 38738: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
