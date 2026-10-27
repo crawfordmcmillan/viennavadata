@@ -1,9 +1,47 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-10-20. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-10-27. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
+
+## Town Council Meeting, 2026-10-29
+Meeting page: https://viennavadata.org/meeting/2026-10-29.html
+- Item 38936: Roll Call [topic: Procedural]
+- Item 38945: Closed Session Report [topic: Procedural]
+- Item 38949: Meeting Adjournment [topic: Procedural]
+- Item 38950: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
+
+## Town Council Meeting, 2026-10-26
+Meeting page: https://viennavadata.org/meeting/2026-10-26.html
+- Item 38890: Invocation: Aidan J. Rodriguez, Vienna Presbyterian [topic: Procedural]
+- Item 38891: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
+- Item 38892: Roll Call [topic: Procedural]
+- Item 38893: Acceptance of the Minutes: [topic: Minutes]
+- Item 38911: Approval of the Draft Minutes from September 21st, September 28th, And October 5th. [topic: Minutes]
+- Item 38894: Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
+- Item 38896: Reports/Presentations [topic: Procedural]
+- Item 38933: (untitled) [topic: Procedural]
+- Item 38897: Report and Inquiries of Council Members [topic: Procedural]
+- Item 38916: Vienna250 Recognition/Council Member Anderson [topic: Proclamations & Recognitions]
+- Item 38898: Report of the Town Manager [topic: Procedural]
+- Item 38915: Light Synchronization
+- Item 38899: Report of the Mayor [topic: Procedural]
+- Item 38900: Proposals for Additional Items to the Agenda [topic: Procedural]
+- Item 38901: Closed Session Report [topic: Procedural]
+- Item 38902: Public Hearings [topic: Procedural]
+- Item 38903: Consent Agenda [topic: Consent Agenda]
+- Item 38909: Referral to the Planning Commission of Proposed Code Amendments: Tree Canopy, Windover Heights Board of Review, Outdoor Dining, and Specialized Instruction [topic: Environment, Trees & Sustainability]
+- Item 38910: Request to set a public hearing for Dec. 7, 2026, for the appeal of a decision by the Board of Architectural Review related to outdoor lighting at 226 Maple Avenue W. [topic: Land Use, Zoning & Development]
+- Item 38908: Improving Wireless Coverage in Vienna - Review Updated Draft Zoning Regulations and Refer to Planning Commission [topic: Land Use, Zoning & Development]
+- Item 38904: Regular Business [topic: Procedural]
+- Item 38907: Community Foundation for Northern Virginia Agreement for Parks & Recreation Fund [topic: Parks & Recreation]
+- Item 38905: Return of the Draft 2026 Comprehensive Plan to the Planning Commission for Reconsideration [topic: Land Use, Zoning & Development]
+- Item 38906: Motion to Rescind the Motion to Set a Definite Date for a Public Hearing on the Meals Tax Rate [topic: Budget, Taxes & Finance]
+- Item 38914: Second Closed Session [topic: Procedural]
+- Item 38912: Meeting Adjournment [topic: Procedural]
+- Item 38913: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2026-10-05
 Meeting page: https://viennavadata.org/meeting/2026-10-05.html
@@ -147,7 +185,7 @@ Meeting page: https://viennavadata.org/meeting/2026-07-06.html
 - Item 38325: Amend Council’s June 1, 2026, motion to reschedule the Tree Advocacy Committee - Green Streets Policy work session from July 6, 2026, to Aug.  24, 2026 [topic: Environment, Trees & Sustainability]
 - Item 38313: Regular Business [topic: Procedural]
 - Item 38326: Request to Set a Public Hearing for Sept. 14, 2026 Regarding Reducing the Town of Vienna Meals Tax Rate from 4% to 3% [topic: Budget, Taxes & Finance]
-  Result: 6 Aye, 1 Nay. Roll call: Chuck Anderson: Aye; Roy Baldwin: Nay; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
+  Result: 2 Nay, 5 Aye. Roll call: Chuck Anderson: Nay; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Nay; Linda Colbert: Aye.
 - Item 38314: Request to adopt 2027 Town Council meeting schedule for inclusion in the 2027 Town of Vienna Calendar. [topic: Governance & Administration]
   Result: 7 Aye. Roll call: Chuck Anderson: Aye; Roy Baldwin: Aye; Doug Francis: Aye; Dann Nash: Aye; Jessica Ramakis: Aye; Howard J. Springsteen: Aye; Linda Colbert: Aye.
 - Item 38315: Request to set a Public Hearing for Aug. 24, 2026, for AT&T Mobility’s request for Modification of Requirements at 527 Maple Ave., E [topic: Land Use, Zoning & Development]
