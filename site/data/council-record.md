@@ -1,9 +1,33 @@
 # Town of Vienna, Virginia: the Town Council record
 
-Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-11-03. Meetings are listed most recent first.
+Compiled by Vienna VA Data (https://viennavadata.org) from the town's public records system (Legistar). Data as of 2026-11-10. Meetings are listed most recent first.
 Vote values are exactly as the town recorded them: Aye, Nay, Absent, Abstain. A few records have no vote value entered in the town's system.
 Topic labels are unofficial, added by the site to make browsing easier.
 Each item has a page at https://viennavadata.org/item/<item id>.html with links to the official meeting record.
+
+## Town Council Meeting, 2026-11-09
+Meeting page: https://viennavadata.org/meeting/2026-11-09.html
+- Item 38955: Invocation: John Russo, The Baha'is of the Town of Vienna [topic: Procedural]
+- Item 38956: Pledge of Allegiance to the Flag of the United States of America [topic: Procedural]
+- Item 38957: Roll Call [topic: Procedural]
+- Item 38958: Acceptance of the Minutes: [topic: Minutes]
+- Item 38959: Receipt of petitions and communications from the Public that are not on the Agenda.  
+          (Limited to 3 minutes per issue and no formal action can be taken this evening) [topic: Procedural]
+- Item 38961: Reports/Presentations [topic: Procedural]
+- Item 38962: Report and Inquiries of Council Members [topic: Procedural]
+- Item 38963: Report of the Town Manager [topic: Procedural]
+- Item 38964: Report of the Mayor [topic: Procedural]
+- Item 38965: Proposals for Additional Items to the Agenda [topic: Procedural]
+- Item 38966: Closed Session Report [topic: Procedural]
+- Item 38967: Public Hearings [topic: Procedural]
+- Item 38971: Public Hearing on the Town’s 2027 Legislative Agenda [topic: Grants & Intergovernmental]
+- Item 38968: Consent Agenda [topic: Consent Agenda]
+- Item 38972: Resolution of the Town of Vienna, Virginia Town Council Approving of the Town’s Participation and Submission of Participation Form in the Proposed Settlement of Opioid-Related Claims against Albertsons Companies, Inc. [topic: Grants & Intergovernmental]
+- Item 38970: Request to award Purchase Order for Engineering Study Services for a Safe Streets and Roads For All (SS4A) Safety Action Plan and Neighborhood Safety Study [topic: Streets, Sidewalks & Transportation]
+- Item 38969: Regular Business [topic: Procedural]
+- Item 38975: Second Closed Session [topic: Procedural]
+- Item 38973: Meeting Adjournment [topic: Procedural]
+- Item 38974: THE TOWN OF VIENNA IS COMMITTED TO FULL COMPLIANCE WITH THE AMERICANS WITH DISABILITIES ACT STANDARDS. TRANSLATION SERVICES, ASSISTANCE OR ACCOMMODATION REQUESTS FROM PERSONS WITH DISABILITIES ARE TO BE REQUESTED NOT LESS THAN 3 WORKING DAYS BEFORE THE DAY OF THE EVENT. PLEASE CALL (703) 255-6304, OR 711 VIRGINIA RELAY SERVICE FOR THE HEARING IMPAIRED. [topic: Procedural]
 
 ## Town Council Meeting, 2026-10-29
 Meeting page: https://viennavadata.org/meeting/2026-10-29.html
